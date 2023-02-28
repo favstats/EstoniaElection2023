@@ -1,0 +1,291 @@
+id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_active,entities.is_political,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
+17a65ca0-0147-42d5-86ef-6c8e5e12e9d4,Euroopa Komisjoni esindus Eestis,2023-01-10T09:29:38.373Z,69995759-7b56-4257-84af-1289432cf1eb,OTH,true,true,Estonia,ee,131942593914,Euroopa Komisjoni esindus Eestis,Facebook
+1e6373ae-67b0-4f9f-bad8-eb5dd659c16f,Sten Perillus,2023-01-10T09:29:39.234Z,30605537-7112-4b82-a31e-a7af2b9c97a8,OTH,true,true,Estonia,ee,100523878806048,Sten Perillus,Facebook
+27e30040-06b9-4fdd-b6b9-1b6ba901e255,Eesti Euroopa Liikumine,2023-01-10T09:29:37.931Z,22395a96-b84a-40d0-978a-d5af7db8e4c6,OTH,true,true,Estonia,ee,101407452585205,Eesti Euroopa Liikumine,Facebook
+2b351847-3a17-4105-95b5-c67b5e9a5ca3,Tartu linn,2023-01-10T09:29:38.320Z,e49f8ba1-aba0-45e1-ab16-d6b388be3b9c,OTH,true,true,Estonia,ee,170821139207,Tartu linn,Facebook
+2fba0014-dfc1-4309-b99f-3a160e8adbc2,Pärnumaa Volikogud,2023-01-10T09:29:39.576Z,b2fd8e52-51a0-4353-aa52-886d245f9dfc,OTH,true,true,Estonia,ee,307922829724487,Pärnumaa Volikogud,Facebook
+30df4273-c71f-497e-a5f1-38b3830d5bae,Indrek Luberg,2023-01-10T09:29:39.491Z,0bb4a115-0d9e-49b3-9dc7-6bce29ca23c8,OTH,true,true,Estonia,ee,100739938580808,Indrek Luberg,Facebook
+3de74ce5-6762-47f9-9f85-9140bec5658a,Mihhail Stalnuhhin - Михаил Стальнухин,2023-01-10T09:29:38.156Z,a50dc652-b369-48e7-b99f-4d8cdb7c6637,OTH,true,true,Estonia,ee,108560351892025,Mihhail Stalnuhhin - Михаил Стальнухин,Facebook
+47f52884-2f03-460f-8346-059bae34f49f,"Jah vabadusele, ei valedele",2023-01-10T09:29:38.391Z,7d36f11e-fbd2-47c2-b53f-a4c9f9d40e89,OTH,true,true,Estonia,ee,1959753937483931,"Jah vabadusele, ei valedele",Facebook
+498b4d1c-344c-4a53-bb36-d0938f1498ea,Tartu Linna Noortevolikogu,2023-01-10T09:29:39.158Z,1dfe1deb-c46a-4a88-939e-fc9fd2cc5745,OTH,true,true,Estonia,ee,766541947036040,Tartu Linna Noortevolikogu,Facebook
+5c2e5b99-96c8-4b5b-a2a5-b284fc5a54ff,Timur Sagitov,2023-02-16T10:52:05.387Z,18ead7a8-22a6-44ea-808f-cc24d8ab1e2c,OTH,true,true,Estonia,ee,1670592216347342,Timur Sagitov,Facebook
+6602f19e-d1a0-4e8d-a8ca-a403bacab92b,Viljandi vald,2023-01-10T09:29:38.958Z,5d8cee4c-b9d4-447e-aa95-94b6db0e4525,OTH,true,true,Estonia,ee,258530927502076,Viljandi vald,Facebook
+6b4ed9a6-b565-482d-aaaf-b93ffa20af5d,Elmo Somelar,2023-02-11T10:51:51.209Z,f21fd135-68b5-45d4-b989-9dda336c08ca,OTH,true,true,Estonia,ee,113399244994268,Elmo Somelar,Facebook
+99531c8b-824a-4204-9923-decd085a12d9,Eesti Vabaerakond,2022-08-16T15:24:29.330Z,301ee0a0-c665-4ef5-aa51-ce204a8a45a6,OTH,true,true,Estonia,ee,1490480777869570,Eesti Vabaerakond,Facebook
+a038228f-f516-42e8-a465-60a4a4f9cde3,Tartumaa Rohelised,2023-01-10T09:29:38.737Z,525c133c-f27d-4448-a7ea-38085425ba15,OTH,true,true,Estonia,ee,1353771811435346,Tartumaa Rohelised,Facebook
+ae9d4eb4-1e62-4b60-a24d-f0d6c8efc39c,Pro Patria Instituut,2023-01-10T09:29:38.852Z,58ccd3d6-501c-4562-b1be-9316b9e54252,OTH,true,true,Estonia,ee,128268547196740,Pro Patria Instituut,Facebook
+b13cce75-e2d7-4234-acd7-b0c82c836293,Sergei Redki Сергей Редкий,2023-01-10T09:29:38.198Z,dceae9d7-4c44-480b-9b81-d727b7f5f3c9,OTH,true,true,Estonia,ee,103764607908619,Sergei Redki Сергей Редкий,Facebook
+b379f1a8-f028-4ca0-be6c-66d7a4f449d3,Parempoolsed,2023-01-10T09:29:37.914Z,5efa5208-d3b9-4cb4-9069-87d487d4c8bd,OTH,true,true,Estonia,ee,102556191461116,Parempoolsed,Facebook
+b4403c25-9f25-4b9c-8c96-9a9633696ebc,Andres Laiapea,2023-01-10T09:29:39.535Z,40e6e7f8-0030-40ba-bf5b-7cb54c1ab334,OTH,true,true,Estonia,ee,1720467724840659,Andres Laiapea,Facebook
+b4e5e13a-6463-4958-b8a0-157715d7bc74,Nikolai Degtjarenko_Николай Дегтяренко,2023-01-10T09:29:39.598Z,7e0cfbb7-c840-48b4-bdee-e9b569f7b7dd,OTH,true,true,Estonia,ee,1627233643964859,Nikolai Degtjarenko_Николай Дегтяренко,Facebook
+c7d6ae2f-c0cb-4f60-8312-c1551c7a5221,Progressiivne Liikumine,2023-01-10T09:29:38.278Z,ff67d5e6-ee39-4287-8cea-117c4e5f32e8,OTH,true,true,Estonia,ee,102364455783302,Progressiivne Liikumine,Facebook
+c9e3356a-df03-43e2-838c-b58634df7771,Minuomavalitsus,2023-01-10T09:29:38.618Z,413658ae-205a-4a35-8c10-1655ee17c691,OTH,true,true,Estonia,ee,132211728340867,Minuomavalitsus,Facebook
+cf54a64e-3fd8-443b-9c98-103c1e23d4b0,Tallinna Linnavolikogu,2023-01-10T09:29:38.416Z,858e781f-59b3-479e-9e2c-5a8fb045bd30,OTH,true,true,Estonia,ee,163327034532726,Tallinna Linnavolikogu,Facebook
+d6dd8b6e-8ad6-40a5-ae7c-991b2ba950cb,Atso Matsalu - spordi ja ettevõtluse eest,2023-01-10T09:29:38.298Z,3e61f039-4a8e-43a2-8a74-cca96446dc65,OTH,true,true,Estonia,ee,160479090822832,Atso Matsalu - spordi ja ettevõtluse eest,Facebook
+fa2776d9-1a1d-43ca-958e-de9144631a0b,Зелёные Эстонии,2023-02-19T10:52:20.648Z,158fcb1c-d13a-4e14-82d4-a45ae0badf40,OTH,true,true,Estonia,ee,141733823126338,Зелёные Эстонии,Facebook
+092d1d32-5220-42b5-8840-9e2c0ef2c11f,Erik Sandla,2023-01-10T09:29:38.613Z,ca06cfb7-8e69-4849-a64e-2506b0c1eb1f,I,true,true,Estonia,ee,106134211145286,Erik Sandla,Facebook
+10a17c49-4a70-4dc0-ac66-496b538ab8b6,Marko Kaljuveer,2023-02-07T15:05:00.554Z,905ce430-ceaa-4bef-bcdc-ed51fe792b0c,I,true,true,Estonia,ee,104764032464899,Marko Kaljuveer,Facebook
+14e65c8b-b887-4c14-a7f7-edb9022ef524,Gerli Lehe,2023-01-10T09:29:38.394Z,2448574c-849e-4d74-81fe-b2d6939af038,I,true,true,Estonia,ee,2367866293449453,Gerli Lehe,Facebook
+1656e57f-7c3d-462f-83c7-d595a741be6b,Tõnis Palts,2023-01-10T09:29:38.332Z,36a7c122-dfcb-4799-8e08-838683ad458f,I,true,true,Estonia,ee,723422231013378,Tõnis Palts,Facebook
+178fc8f3-f765-4c44-99f2-ab38f04e5da4,Peeter Võsu,2023-02-19T10:52:20.560Z,dea4df7e-4518-4111-b799-878b5a464007,I,true,true,Estonia,ee,173144512875202,Peeter Võsu,Facebook
+200cd017-32f2-42af-b4f8-bd2a603619cc,Hannes Toomsalu,2023-01-10T09:29:38.551Z,c48d4fb4-5ddd-4a97-9038-75add35cd5ff,I,true,true,Estonia,ee,104382972349696,Hannes Toomsalu,Facebook
+28f47539-f769-46c8-a952-205975e54daa,Priit Humal,2023-01-10T09:29:38.553Z,6f2dccf3-0c15-4eea-b432-516375f55619,I,true,true,Estonia,ee,100589309407520,Priit Humal,Facebook
+2928736d-10c6-48a2-9850-e2dcb96f860b,Gerry Konnov,2023-02-07T15:05:00.850Z,24c63db8-b5d5-4505-bbca-b2362caee25b,I,true,true,Estonia,ee,112260408376672,Gerry Konnov,Facebook
+34c793fb-8b60-4f05-b41b-956ede40a6f4,Juhani Jaeger,2023-01-10T09:29:38.591Z,74a5fbe2-763b-46f1-9af6-67a07c5e5a5b,I,true,true,Estonia,ee,101085094879517,Juhani Jaeger,Facebook
+374583d5-b047-46bc-912f-5aa2e9bf2244,Merike Käver,2023-02-13T10:52:16.476Z,a9c8379c-d45d-4275-97f7-76d29474f2f1,I,true,true,Estonia,ee,105383005783837,Merike Käver,Facebook
+422c24d7-7e64-4f81-805c-4ca026b61b5c,Kalle Muuli,2023-01-10T09:29:38.456Z,57abd380-1071-417d-b15a-9dc966cbeb30,I,true,true,Estonia,ee,426627097484750,Kalle Muuli,Facebook
+4589e5eb-d09d-4a3b-9859-fd42587623ad,Tarmo Kruusimäe,2023-01-10T09:29:38.913Z,04f027ca-5b6a-4e97-95bc-23b193577d1b,I,true,true,Estonia,ee,161107963928312,Tarmo Kruusimäe,Facebook
+45e35437-326e-48fb-b6df-057568f40128,Raivo E. Tamm,2023-01-10T09:29:38.377Z,1a78164f-d69f-46f6-8059-1dd9cce23bb9,I,true,true,Estonia,ee,551578361975318,Raivo E. Tamm,Facebook
+4a676678-7fa0-49ef-a1c9-d52ff7d21b55,Urmas Reinsalu,2023-01-10T09:29:38.075Z,6083de4e-3c24-4fb9-b2af-0fc500761f23,I,true,true,Estonia,ee,503635753156660,Urmas Reinsalu,Facebook
+532e8523-4acb-4236-a6e8-909456f8ff65,Raivo Aeg,2023-02-17T10:51:55.833Z,abbb6604-772d-4b0c-b96f-601e25819735,I,true,true,Estonia,ee,876948409126568,Raivo Aeg,Facebook
+576207e8-dba7-4096-b349-ca1083d602d2,Isamaa Harjumaa,2023-02-07T15:05:00.472Z,37dd4fbe-281c-4bb2-8b2c-a83ec556777a,I,true,true,Estonia,ee,161682843916104,Isamaa Harjumaa,Facebook
+5b0531a2-cf89-46ed-8cb1-022d2ae1e9aa,Isamaaline Tartu,2023-02-07T15:05:00.723Z,dbc91a9a-9a0c-4d01-9626-ad04e6d7d707,I,true,true,Estonia,ee,434315750061904,Isamaaline Tartu,Facebook
+63d0db05-1462-4999-949e-3b2b5adf4196,Ingrid Mühling,2023-02-25T10:52:09.613Z,f56d030e-960e-491c-a0f1-8e07ed3ba1b7,I,true,true,Estonia,ee,103968498734833,Ingrid Mühling,Facebook
+64d9bcba-95a2-4b16-a03f-52fb4145e365,Riina Solman,2023-01-10T09:29:39.020Z,5fa32ff3-a183-4e7c-8757-b2d23ef0e48f,I,true,true,Estonia,ee,2003524753215343,Riina Solman,Facebook
+672742d5-8ee0-4067-b54d-a313e6a173ed,Riho Terras,2023-01-10T09:29:38.092Z,a0b96935-cbdc-4c42-b935-2b68ba6b94fa,I,true,true,Estonia,ee,2217643278496367,Riho Terras,Facebook
+6fc07bc1-299a-4288-904b-99dfbac9cdf2,Andrus Ilumets,2023-02-07T15:05:00.622Z,5cca2c1c-25f7-4196-b321-078f44e5413c,I,true,true,Estonia,ee,116589868004676,Andrus Ilumets,Facebook
+6fe2558b-c68b-4991-bd3f-af3531747e42,Lea Danilson-Järg - Isamaa,2023-01-10T09:29:38.279Z,5325df1a-c478-4092-8648-64f81a25edda,I,true,true,Estonia,ee,106588032216417,Lea Danilson-Järg - Isamaa,Facebook
+71c82f0e-b44e-4a29-9cf6-79447d0b89de,Jaanus Kriisk - Isamaa Tartu,2023-02-15T10:51:56.003Z,79ece3b1-89f1-4252-bfa4-c99a2d6ae216,I,true,true,Estonia,ee,113663198281630,Jaanus Kriisk - Isamaa Tartu,Facebook
+7d7b508c-0b8d-4e59-b4ce-e298b999e4d4,Lembit Kalev,2023-02-25T10:52:09.369Z,666cf9eb-eb77-4556-ae33-f00e412a1060,I,true,true,Estonia,ee,103443456017959,Lembit Kalev,Facebook
+86cd4d24-eeda-4de7-b4bf-3cf7d90d226f,Heldur-Valdek Seeder poliitik,2023-02-21T10:52:03.487Z,b611ccec-af84-4fb1-8f4e-b06e615f5484,I,true,true,Estonia,ee,114976374806423,Heldur-Valdek Seeder poliitik,Facebook
+a1678620-7030-4ecc-b875-a4df6c8e48fc,Kristjan Järvan,2023-01-10T09:29:38.275Z,bdadd4c9-ec5d-4866-b036-806a21367d71,I,true,true,Estonia,ee,100848872742357,Kristjan Järvan,Facebook
+b63e6727-93b8-4616-b037-358e68cdcdb7,Isamaa,2022-08-16T15:24:29.319Z,c81525ea-50c8-4546-826d-60372faccde3,I,true,true,Estonia,ee,321163977576,Isamaa,Facebook
+ba2955c5-9a64-48f0-bf0a-12dcaf38d4fe,Andres Metsoja,2023-01-10T09:29:38.951Z,77ec164c-a645-47e4-821a-ab54cc8b1cc3,I,true,true,Estonia,ee,923937097624335,Andres Metsoja,Facebook
+c9c8e7b6-5e46-4916-b45e-64f418675263,Heiki Hepner,2023-01-10T09:29:38.897Z,41f14575-b8b8-4feb-8cec-6e6eafe837b7,I,true,true,Estonia,ee,287084435337968,Heiki Hepner,Facebook
+d07fce42-16b9-4eb9-ac5e-14d232e165e2,ResPublica,2023-01-10T09:29:39.116Z,3e0c2a32-c415-42d1-bba2-9071c61d7ccb,I,true,true,Estonia,ee,124913684200476,ResPublica,Facebook
+d13476c2-3344-4e1e-aaa2-9eb5cd54d55c,Rain Veetõusme,2023-02-21T10:52:03.411Z,62620cee-216d-4217-aa32-23cc6617eee6,I,true,true,Estonia,ee,209974781053860,Rain Veetõusme,Facebook
+d866656c-8cae-471b-9fda-d12649c73401,Aivar Kokk,2023-01-10T09:29:38.533Z,861b380c-d3b9-4480-8762-0f112939db6c,I,true,true,Estonia,ee,1583400181908103,Aivar Kokk,Facebook
+dbbecb0b-3774-4010-b2ae-242b7a64c621,Isamaaline Saaremaa,2023-02-19T10:52:20.510Z,066d7491-1a47-46da-9254-7d3a90d833d3,I,true,true,Estonia,ee,184949251879956,Isamaaline Saaremaa,Facebook
+eb0af5d2-5847-4bb0-8d26-d9e5960235b3,Jan Trei,2023-01-10T09:29:38.574Z,5452213a-d0af-41aa-88a1-db84c8003ea3,I,true,true,Estonia,ee,105731514519028,Jan Trei,Facebook
+ec9c26db-f692-49ed-ae78-86f9feb5da79,Priit Sibul,2023-01-10T09:29:38.531Z,5a77c958-9bf1-4136-96e8-a94d457a7f5f,I,true,true,Estonia,ee,1480519428917106,Priit Sibul,Facebook
+f3cb8e1b-e667-4aed-ab28-a61e54aff6d5,Isamaa Tallinn,2023-01-10T09:29:38.780Z,6413a0bc-0261-420c-852a-a62119d6a9b6,I,true,true,Estonia,ee,646902458783744,Isamaa Tallinn,Facebook
+f562c1e7-213d-4413-8e7e-e980356ad562,Karl Sander Kase,2023-01-10T09:29:38.390Z,7258801f-8868-47f1-96b8-b3ad628d0471,I,true,true,Estonia,ee,262020364316687,Karl Sander Kase,Facebook
+f89974c4-4aab-47de-9364-5e9be1f04471,Kristian Taska,2023-02-24T10:52:08.634Z,b58b138b-599e-4cd6-9634-ccdc43932089,I,true,true,Estonia,ee,110260035301887,Kristian Taska,Facebook
+fb0ceafc-57f6-4899-89a4-16913996c609,Mikk Targo,2023-02-26T10:52:12.787Z,deb1fc46-9f2c-402b-93d2-7ddaa420c795,I,true,true,Estonia,ee,113032521704914,Mikk Targo,Facebook
+022977a5-a0d8-4c35-85fc-07094b0f1b9b,Keskerakond Järvamaa,2023-01-10T09:29:38.973Z,19e78753-93a1-4959-84fb-8a578b6f14c9,K,true,true,Estonia,ee,202858880254625,Keskerakond Järvamaa,Facebook
+02af4655-e9a8-44db-b9c4-2747d6a011f7,Siret Kotka,2023-01-10T09:29:38.572Z,b41dc938-ce5a-4316-97e8-efbeb85ad4d6,K,true,true,Estonia,ee,1010649029140283,Siret Kotka,Facebook
+0395c2bc-2e4b-4f4d-906e-af0a76bf39f6,Julianna Jurtšenko,2023-01-10T09:29:38.213Z,51de06fe-a0e6-48b8-a190-d57639a96890,K,true,true,Estonia,ee,106297677502536,Julianna Jurtšenko,Facebook
+07a79f2a-57e7-48b1-a843-faf4bc2af4af,Märt Sults Riigikokku,2023-02-21T10:52:03.238Z,5b9db1b2-dff8-49ca-98cb-70ba52e7a87f,K,true,true,Estonia,ee,1523918557856533,Märt Sults Riigikokku,Facebook
+09808f88-1c7c-479e-8760-18fdc4759cc2,Andres Kalvik,2023-02-07T15:05:01.062Z,73ed6549-b0bc-445e-8b60-d1ea2f512d41,K,true,true,Estonia,ee,104280462556292,Andres Kalvik,Facebook
+0a813e59-18f2-441a-9449-148cd7af623c,YanaToom.ee,2023-01-10T09:29:38.173Z,8ffb97c9-30cd-46b2-8e81-cde4b459e42a,K,true,true,Estonia,ee,2367048563336709,YanaToom.ee,Facebook
+10cd5041-7731-4812-bb2d-b99bf07c6980,Raivo Uukkivi,2023-02-07T15:05:01.564Z,0b38d747-b9fc-4228-8449-60b6359eb23d,K,true,true,Estonia,ee,113292901654948,Raivo Uukkivi,Facebook
+17282ff6-8a97-48ee-9d5d-aad3a7974ce5,Taavi Aas,2023-01-10T09:29:39.113Z,74f33935-26a9-42c9-a701-60b93801b071,K,true,true,Estonia,ee,1886728188247639,Taavi Aas,Facebook
+19ad754c-764f-4cfe-bfa8-fb4afd2be08f,Kersti Sarapuu,2023-01-10T09:29:39.137Z,e28f4f36-4c82-4238-adf3-a230d35dc17d,K,true,true,Estonia,ee,106368134085848,Kersti Sarapuu,Facebook
+215e65ec-b768-4958-90fa-25d4613d26be,Центристская партия / Tsentristskaja partija,2023-01-10T09:29:38.170Z,a3f4b0d3-e6e0-445f-94b0-bc49482fc2c1,K,true,true,Estonia,ee,1380694195285538,Центристская партия / Tsentristskaja partija,Facebook
+23d52d2a-9d46-451f-a4d1-05769485e51a,Jüri Kirss,2023-02-07T15:05:01.061Z,09ac9472-54a8-404f-8053-23aa4eb89b0c,K,true,true,Estonia,ee,104146868404633,Jüri Kirss,Facebook
+25eabedf-0b4a-40bc-b1ea-347deb9b6fd3,Keskerakond Ida-Virumaa,2023-01-10T09:29:38.570Z,22a8d704-28a2-4cd5-9125-dcde0fb44b38,K,true,true,Estonia,ee,615940368566466,Keskerakond Ida-Virumaa,Facebook
+2623bb45-88df-4412-943b-1828dbc74363,Ester Karuse,2023-01-10T09:29:39.436Z,d161c9ab-9d2b-4f98-a8b0-2ec7ebb43e55,K,true,true,Estonia,ee,609741986146165,Ester Karuse,Facebook
+2b6ddec9-8903-49ce-b22a-2667e79bf058,Eesti Keskerakond,2022-08-16T15:24:29.290Z,ae0d1a7e-bebf-4fa2-8b39-3e62882b6cf6,K,true,true,Estonia,ee,1409493475930420,Eesti Keskerakond,Facebook
+301f3609-1258-4d0a-8964-e6f07205775d,Kristi Rüütel,2023-01-10T09:29:39.415Z,54df5427-6d67-4be2-b38a-c47a1e6cde0c,K,true,true,Estonia,ee,219219312853435,Kristi Rüütel,Facebook
+3026b268-8355-4895-8909-3bbab80de316,Andre Hanimägi,2023-01-10T09:29:39.054Z,4d5ad3eb-b3f0-4fe9-95e5-cf9e3c02e5ce,K,true,true,Estonia,ee,446111129296844,Andre Hanimägi,Facebook
+356cb927-5a44-4015-90a1-66acb94f1b70,Keskerakond Võrumaa,2023-01-10T09:29:39.019Z,99a371d2-5d8c-40f8-b269-4c7ca9251712,K,true,true,Estonia,ee,1440629982691419,Keskerakond Võrumaa,Facebook
+39e7f03f-acee-420f-9746-de6367af8e4f,Manuela Pihlap,2023-01-10T09:29:39.461Z,bea6685b-1d0e-4d65-ade9-b76b1db36c33,K,true,true,Estonia,ee,106801038425656,Manuela Pihlap,Facebook
+409db551-8466-48e6-9e38-7bc6089c2829,Keskerakond Viljandimaa,2023-02-07T15:05:01.874Z,de5169c5-320b-491d-82e0-2188c0b9b3ab,K,true,true,Estonia,ee,608181279834211,Keskerakond Viljandimaa,Facebook
+4a2623dd-5b74-461e-a66e-8c4d657683f3,Tõnis Mölder,2023-02-07T15:05:01.744Z,dcd74823-cb78-4fff-be88-5ea0f1b090f3,K,true,true,Estonia,ee,114305422457130,Tõnis Mölder,Facebook
+4b319130-39fa-46da-a162-6e8e6892f518,Anti Saarepuu,2023-02-19T10:52:20.642Z,9b7a193a-3442-4973-ab11-64be46101674,K,true,true,Estonia,ee,101979846137253,Anti Saarepuu,Facebook
+4d524054-a61c-43e9-b2a5-e7c9b1bae0a5,Keskerakond Läänemaa,2023-01-10T09:29:38.778Z,9dd07535-58c1-4a43-9ae1-a26fbd2a5c71,K,true,true,Estonia,ee,145726953019129,Keskerakond Läänemaa,Facebook
+50169fdf-5461-4655-8658-b1c20b7960ee,Kaido Höövelson,2023-02-12T10:51:57.748Z,0ef90b49-874e-4425-85b1-f9fa14439b09,K,true,true,Estonia,ee,101881754571474,Kaido Höövelson,Facebook
+5f2e8176-90b9-4ab1-8df6-dc9727b00b00,Mihkel Undrest,2023-02-26T10:52:12.851Z,dec201bc-6663-4ce9-9e7a-fbb4a89677c6,K,true,true,Estonia,ee,104063671722407,Mihkel Undrest,Facebook
+697a0504-0646-4ef0-99ba-c9cd7e6dfe1c,Lauri Laats,2023-02-07T15:05:01.549Z,f7c0caea-485a-4c82-bb8c-df6501d49992,K,true,true,Estonia,ee,126642751314358,Lauri Laats,Facebook
+6a1d286d-7f9d-431b-b387-d60e0812506c,Vladimir Svet,2023-02-24T10:52:09.022Z,cab21f68-4cb2-4f14-922d-680a79529a60,K,true,true,Estonia,ee,114077833379742,Vladimir Svet,Facebook
+6a6b9f05-ec82-47db-aea3-a3d6497c2cb8,Tiit Terik,2023-02-13T10:52:16.379Z,d64c90b0-5568-450a-a923-f43283eb3155,K,true,true,Estonia,ee,197603360697785,Tiit Terik,Facebook
+6aa4ddfc-5919-4acc-bd2c-acad12bd89b7,Mihhail Kõlvart,2023-02-15T10:51:56.444Z,11901f9a-7f0d-433a-9344-aa77d2292c63,K,true,true,Estonia,ee,126693994065708,Mihhail Kõlvart,Facebook
+6b5c26ef-67e7-45ce-9de3-fcadfc5f6171,Илья Бань Ilja Ban,2023-02-22T10:52:17.578Z,5db66b33-bca4-4343-beb6-5fcb51927a8c,K,true,true,Estonia,ee,2383643248375386,Илья Бань Ilja Ban,Facebook
+6e9ca76e-1095-4578-9961-58f34e116c2a,Andrei Korobeinik,2023-01-10T09:29:38.155Z,8b2c225f-4f97-4a52-b7a2-b094f71ef70d,K,true,true,Estonia,ee,625329771243439,Andrei Korobeinik,Facebook
+71624ee1-bbff-4206-b2ed-274fa3bb8068,Antti Leigri,2023-01-10T09:29:38.838Z,c46ff84d-feee-4c87-b69f-ed2635953695,K,true,true,Estonia,ee,1119886078176762,Antti Leigri,Facebook
+73d21532-8145-4c5c-9bc7-4d89282e4cfd,Igor Gräzin,2023-01-10T09:29:38.180Z,0ea8d68e-9650-4e49-81b3-4e0123d23b2e,K,true,true,Estonia,ee,339367456669277,Igor Gräzin,Facebook
+78ba49b7-4b74-4b53-9708-a8a3dba081fe,Keskerakond,2023-01-10T09:29:37.980Z,fcbde625-64be-4b76-8fdd-79dca82b2a04,K,true,true,Estonia,ee,161252453921396,Keskerakond,Facebook
+81dc3a3c-8c0a-47dc-aa38-5229ee230bee,Dmitri Dmitrijev,2023-01-10T09:29:39.651Z,fc78cff7-fe17-41b7-af33-a9ab0f24f992,K,true,true,Estonia,ee,281740249357644,Dmitri Dmitrijev,Facebook
+a1c2bf00-833b-470a-8b99-c8783f6fd3d4,Andro Roos - 1008 Tartu linn,2023-02-08T05:55:40.654Z,0a9a6be2-8b7e-4455-82af-929fea306b98,K,true,true,Estonia,ee,106100704830144,Andro Roos - 1008 Tartu linn,Facebook
+a542272f-be42-41a0-9166-280b372703d0,Maria Jufereva-Skuratovski,2023-01-10T09:29:38.190Z,fac157e4-6d4b-4deb-9c7b-00a41b1fdd67,K,true,true,Estonia,ee,274708419868399,Maria Jufereva-Skuratovski,Facebook
+aaf0e101-246f-4114-b172-c35d4295bd6c,Taavi Tuvike 1022,2023-02-13T10:52:16.476Z,5085e5e8-5526-4e57-ae16-ee6977479bcd,K,true,true,Estonia,ee,100427982979678,Taavi Tuvike 1022,Facebook
+ad0ea927-09a6-466f-8acf-03896e441ec4,Neeme Väli,2023-02-10T10:52:13.123Z,a3a4b52c-7355-40af-94d7-7bfabcb583ea,K,true,true,Estonia,ee,113339361651938,Neeme Väli,Facebook
+ad4676c4-cd73-4de6-a199-f02ced702b0a,Eva-Maria Liimets,2023-02-07T15:05:01.482Z,3bdda24f-8128-49c5-ac67-e8f960152ba6,K,true,true,Estonia,ee,101980331928933,Eva-Maria Liimets,Facebook
+aed7dc93-4f1e-4b81-b8c5-dc25fa9d1220,Priit Toobal,2023-01-10T09:29:38.658Z,b4c31018-2ada-41d4-bd58-d9b0de2553b6,K,true,true,Estonia,ee,111320565124173,Priit Toobal,Facebook
+bea0a743-81b3-4dd9-b1f5-b50124fb2c9d,Peeter Rahnel,2023-02-28T10:52:14.090Z,ba168a43-6251-4b37-8591-5b55a894333c,K,true,true,Estonia,ee,378407346049038,Peeter Rahnel,Facebook
+c2b9b3aa-aceb-4724-9137-5558944414e8,Jüri Ratas,2023-01-10T09:29:38.292Z,1429aa87-086a-4a04-8817-81992948c53e,K,true,true,Estonia,ee,419827918155173,Jüri Ratas,Facebook
+d1f54222-c682-4c82-9f9a-f76bd082c2c7,Keskerakond Lüganuse,2023-02-26T10:52:12.983Z,7e3dd9df-b834-4638-b19d-4ed149a15df0,K,true,true,Estonia,ee,316529978882285,Keskerakond Lüganuse,Facebook
+e009ccbd-5365-4650-92ae-fffc10963e48,Jaanus Riibe,2023-02-07T15:05:01.801Z,69e394d4-f031-4673-a7ad-4d32bf93c5f4,K,true,true,Estonia,ee,114835672561853,Jaanus Riibe,Facebook
+e2084928-358f-470f-8f17-90927aad4024,Юри Ратас - Jüri Ratas,2023-02-20T10:52:05.892Z,755566cd-77da-4453-9529-24954d010611,K,true,true,Estonia,ee,104040165219674,Юри Ратас - Jüri Ratas,Facebook
+e774bd52-8af7-4604-a3fc-49489ef5e3c7,Jaanus Karilaid,2023-01-10T09:29:39.153Z,3813395a-f547-4e95-9d28-3ae447123cf0,K,true,true,Estonia,ee,103370424540210,Jaanus Karilaid,Facebook
+f314772f-2786-47f1-95b5-6624d324ddfe,Aleksandr Širokov,2023-02-19T10:52:20.746Z,fbe0618a-9aa1-438a-b02f-cf472c756aca,K,true,true,Estonia,ee,104084025931656,Aleksandr Širokov,Facebook
+f41d84ac-bc00-4f89-8e2d-362e573dc0ea,Olga Kurdovskaja,2023-01-10T09:29:38.572Z,b0d7e5f1-b2ab-4ed5-b94b-8f232c004b74,K,true,true,Estonia,ee,473956629748022,Olga Kurdovskaja,Facebook
+f6d01795-2337-4eba-a714-b559eab1e70a,Jaak Aab,2023-01-10T09:29:38.953Z,65a95133-28bb-466d-a9cd-35b9393b3ed8,K,true,true,Estonia,ee,651420618384351,Jaak Aab,Facebook
+fa089b01-8f05-4087-883c-74554a324495,Jaan Toots,2023-02-07T15:05:00.910Z,a8df1bb4-e287-459b-8d7e-467c5703c59d,K,true,true,Estonia,ee,935189710011895,Jaan Toots,Facebook
+fb58f6c5-ee3e-41cb-800e-f7e6f7bc0418,Monika Haukanõmm,2023-01-10T09:29:39.551Z,c7016a4f-718c-46d1-9623-3b11df4f1ff6,K,true,true,Estonia,ee,383431608883701,Monika Haukanõmm,Facebook
+fdcce583-6105-4857-a26d-1b87e43a4670,Александр Чаплыгин,2023-02-08T05:55:40.502Z,eb2f0914-3637-4f16-8802-3d7d92af6227,K,true,true,Estonia,ee,103284719037703,Александр Чаплыгин,Facebook
+04b85cee-5431-4b69-a946-49f847d6766a,Lauri Läänemets,2023-01-10T09:29:38.120Z,495749c5-d787-4c03-a11f-65a32c12cc67,SDE,true,true,Estonia,ee,593272994436767,Lauri Läänemets,Facebook
+0633f45e-9396-4375-9027-8b3b3d8b1f8f,Kagu-Eesti sotsid ja sõbrad,2023-02-08T05:55:40.722Z,826f6187-dc94-4cc0-bf02-8b8632ff3fac,SDE,true,true,Estonia,ee,1833095483677090,Kagu-Eesti sotsid ja sõbrad,Facebook
+07be8418-cb06-4cbd-a8b8-03759ad02e07,Karl Pütsepp - sotsiaaldemokraat,2023-01-10T09:29:39.455Z,7bc7b80d-1918-4079-9458-d6015e3f7fc4,SDE,true,true,Estonia,ee,1117385958320987,Karl Pütsepp - sotsiaaldemokraat,Facebook
+0c1bdb9b-6939-465d-840b-1c1fd7b4ab31,Ida-Viru sotsid / Соцдемы Ида-Вирумаа,2023-01-10T09:29:38.856Z,c87e99ae-155f-412f-bea3-f4800cdc3ba1,SDE,true,true,Estonia,ee,100157664754405,Ida-Viru sotsid / Соцдемы Ида-Вирумаа,Facebook
+0fa61d32-5d10-465f-97ef-cda97f372e2c,Sotsiaaldemokraadid Pärnumaal,2023-02-07T15:05:01.441Z,0c44755b-5945-46dc-afd6-0a6c96c005c5,SDE,true,true,Estonia,ee,554969128042157,Sotsiaaldemokraadid Pärnumaal,Facebook
+11facada-e6eb-4778-b0da-8b4853f214e1,Karmo Kuri,2023-01-10T09:29:38.018Z,9122ab68-0647-4e94-9167-272506ab1b79,SDE,true,true,Estonia,ee,104171505716678,Karmo Kuri,Facebook
+1801c6fb-708e-4b5c-a309-297bb4386a77,Madle Lippus,2023-01-10T09:29:38.899Z,735f05cf-76ab-43ec-9157-8ff72731dbff,SDE,true,true,Estonia,ee,112286627948070,Madle Lippus,Facebook
+2501090b-f93c-4171-8085-7381e5df91bb,Eduard Odinets,2023-01-10T09:29:38.652Z,9cc7e0d2-5338-4e58-ae33-c781101ef7d2,SDE,true,true,Estonia,ee,351648899202042,Eduard Odinets,Facebook
+25ffcbea-1711-4862-bfe0-ba48ffe430ca,Madis Kallas,2023-02-19T10:52:20.784Z,96369bae-8462-49b6-a78f-1b6ec33aedfd,SDE,true,true,Estonia,ee,100654462739103,Madis Kallas,Facebook
+26b756d8-2c9c-4566-8d43-fd13d524dbd2,Piret Hartman,2023-01-10T09:29:38.072Z,6b581672-b8c0-4fea-9393-840d3bf74a1f,SDE,true,true,Estonia,ee,109881578478905,Piret Hartman,Facebook
+29d4bde5-86c6-435a-b094-55bf7b221beb,Kajar Lember,2023-02-07T15:05:01.275Z,04734214-347a-44aa-bdbf-658989448ce5,SDE,true,true,Estonia,ee,107445508907070,Kajar Lember,Facebook
+2bc617f8-8a34-4e9e-b0e3-346045121612,Asso Nettan,2023-02-07T15:05:01.588Z,05bc0d2e-fcaf-4821-b884-b85d928460bf,SDE,true,true,Estonia,ee,109056435016202,Asso Nettan,Facebook
+3628086e-cdfd-4660-901c-2da49bff2a9f,Karl Kirt,2023-02-07T15:05:01.523Z,917b74fe-2c3f-41cb-a64f-0f000548708e,SDE,true,true,Estonia,ee,102677574924435,Karl Kirt,Facebook
+3b6c2981-5b45-466a-a6d9-145bc85999fe,Eveliis Padar,2023-01-10T09:29:38.714Z,d0fec3fd-3e24-4275-9526-d1c9ec9a836e,SDE,true,true,Estonia,ee,101685575533643,Eveliis Padar,Facebook
+3f3ab072-53d0-4c32-bac5-51881e70d791,Lemmit Kaplinski,2023-01-10T09:29:38.319Z,8aa0b6f9-1d75-4e94-9e11-ce2ba17e263f,SDE,true,true,Estonia,ee,102552921566856,Lemmit Kaplinski,Facebook
+3f74c557-371d-4795-bced-19c1fa7dd7c2,Tiit Maran,2023-02-12T10:51:57.765Z,849d6566-3677-4d0c-a786-fa0f8c36fb64,SDE,true,true,Estonia,ee,116515578012824,Tiit Maran,Facebook
+3fdd38c3-ef31-46f1-b2fa-f17c9d18e657,Jüri Ross,2023-01-10T09:29:39.872Z,1e4914a0-2b14-4aef-a468-35b17c98945f,SDE,true,true,Estonia,ee,114074031552423,Jüri Ross,Facebook
+4328aeca-56e8-438f-8db6-05f9a5d561c0,Krista Aru,2023-01-10T09:29:38.311Z,92b891b9-1c43-4993-9722-cea707f56948,SDE,true,true,Estonia,ee,106924515599100,Krista Aru,Facebook
+4acaa5ed-02b1-4fa0-9bd7-f5196bd794ad,SDE Kohtla-Järve,2023-01-10T09:29:41.495Z,b9ca6a51-fdc7-472f-bc1a-1d530eee350f,SDE,true,true,Estonia,ee,1801985216780451,SDE Kohtla-Järve,Facebook
+4d189f37-3506-4848-aa0d-1b32844ae3b0,Kadri Leetmaa,2023-01-10T09:29:39.158Z,ce43afdd-5d1c-41b6-b45a-a8583253e757,SDE,true,true,Estonia,ee,109365575058427,Kadri Leetmaa,Facebook
+516258eb-03c7-4ebb-9581-917c7a75a6f8,Lauri Paeveer,2023-02-15T10:51:56.271Z,2a65bca1-7330-400d-b308-4a141c5a5234,SDE,true,true,Estonia,ee,102119709054002,Lauri Paeveer,Facebook
+56623182-984b-47b7-91b5-6e16cf0f4c9d,Heljo Pikhof,2023-01-10T09:29:38.661Z,da73353f-8c86-42ae-b72d-9c8718afcbfe,SDE,true,true,Estonia,ee,1005846046291799,Heljo Pikhof,Facebook
+6af0714a-8ee3-40f7-8be0-970e35377eb9,Jevgeni Ossinovski,2023-01-10T09:29:38.257Z,adc5c0ed-8d1f-409b-b285-044204aac761,SDE,true,true,Estonia,ee,117593944980769,Jevgeni Ossinovski,Facebook
+6b8a5207-6f49-4ef4-aaba-48a196425577,Joosep Vimm,2023-01-10T09:29:38.469Z,1f24fbe3-c54a-41cf-a951-9ca00b535170,SDE,true,true,Estonia,ee,503504990111763,Joosep Vimm,Facebook
+6f4b1a44-277f-48cf-aa5c-5fb72d5a8cfb,Maris Hellrand,2023-02-07T15:05:01.325Z,044e1da6-feb9-4dee-932d-6ecd81398b69,SDE,true,true,Estonia,ee,110830431233885,Maris Hellrand,Facebook
+7230a58a-71ac-4346-a08b-0a4b77c4759b,Raimond Kaljulaid,2023-02-24T10:52:08.631Z,f5551dd8-d961-4d89-891d-435b3dfa177f,SDE,true,true,Estonia,ee,1084372461606422,Raimond Kaljulaid,Facebook
+80dc8d4d-59a6-4f81-adb1-3634ed7b404f,Lääne-Virumaa Sotsiaaldemokraadid,2023-02-12T10:51:57.567Z,12d8275c-99c3-4dc3-b724-485462dba366,SDE,true,true,Estonia,ee,1817727871852381,Lääne-Virumaa Sotsiaaldemokraadid,Facebook
+8283c058-b869-4257-9830-b583f54bd74e,Artjom Dmitrijev,2023-01-10T09:29:39.233Z,9f4f1a8d-8a6d-4407-bcaf-9a8bb8e24bbd,SDE,true,true,Estonia,ee,102624219321375,Artjom Dmitrijev,Facebook
+8ab36399-1b32-4774-80b7-51aabb0b4d96,Peep Peterson,2023-01-10T09:29:38.032Z,9e8a8f3c-6497-4dac-b034-11e1bc07e720,SDE,true,true,Estonia,ee,103449042453499,Peep Peterson,Facebook
+8f4a48d7-2b90-47c7-83d3-4c5bc3446a28,Riina Sikkut,2023-01-10T09:29:38.534Z,2a423cf5-6c7f-4428-954b-05169990cfd3,SDE,true,true,Estonia,ee,396987484113215,Riina Sikkut,Facebook
+9e834cec-3931-44f0-9c6f-f5d4be4de353,Marika Saar,2023-02-07T15:05:01.092Z,a0af350a-11fd-45dc-aaf6-e3d29de0d917,SDE,true,true,Estonia,ee,2221345161456177,Marika Saar,Facebook
+a1d5cc74-20ed-4530-a53e-845b553485b5,Eiki Nestor,2023-01-10T09:29:39.433Z,ab58e74f-4955-473e-b722-6f1856589286,SDE,true,true,Estonia,ee,1472281069715651,Eiki Nestor,Facebook
+a3d433bf-3858-4839-9e3c-ddbda6fe42f3,Natalie Mets,2023-02-12T10:51:57.614Z,e663d4e7-a7ac-4ec3-a859-40cadc8b7ed5,SDE,true,true,Estonia,ee,105507178222203,Natalie Mets,Facebook
+b11fd0b9-5cfe-46a4-9bea-080024b8216b,Kaarel Oja,2023-01-10T09:29:38.635Z,4190bc53-ec63-485e-a9b1-5bee4f2be10a,SDE,true,true,Estonia,ee,103452718842947,Kaarel Oja,Facebook
+b20da921-45af-469d-a14a-33163656f9bc,Madis Joosep Toomel,2023-02-24T10:52:08.913Z,42d424c7-830f-4e23-b2f5-7d5de42c8ff2,SDE,true,true,Estonia,ee,113082581694579,Madis Joosep Toomel,Facebook
+ca7e9bf1-a0a1-427e-8305-f27294a3cb70,Henri Kaselo,2023-01-10T09:29:39.150Z,34694841-0b9f-4e5b-92b2-5a6e188881d1,SDE,true,true,Estonia,ee,106989121449043,Henri Kaselo,Facebook
+cce61f06-0c5c-40ac-8ec7-df1d6bd9c84c,Sotsiaaldemokraatlik Erakond,2022-08-16T15:24:29.296Z,172e82a6-6ff7-4e06-9b61-3045ba0f5d07,SDE,true,true,Estonia,ee,123310201026539,Sotsiaaldemokraatlik Erakond,Facebook
+d6c3658e-875a-44f5-ab79-e27153ce1ff3,Tartu ja Tartumaa sotsiaaldemokraadid,2023-01-10T09:29:38.117Z,0439e0bc-2422-44c6-a1b3-df4cc9a5575b,SDE,true,true,Estonia,ee,1451467634864322,Tartu ja Tartumaa sotsiaaldemokraadid,Facebook
+d73fd445-fce2-4293-8b7f-09a3c8766a57,Социал-демократическая партия,2023-01-10T09:29:38.357Z,192b25d8-7b61-46ac-acb3-6fb4351d76be,SDE,true,true,Estonia,ee,383403508369488,Социал-демократическая партия,Facebook
+e13247e2-3bdd-470b-9894-479b5ac6785a,Reili Rand,2023-01-10T09:29:38.473Z,cf0eee67-6f97-4e81-88a5-51c27119df09,SDE,true,true,Estonia,ee,109684588562882,Reili Rand,Facebook
+e3cd2bd2-2695-4c61-b20c-7c7699c15c8c,Silver Tambur,2023-02-07T15:05:00.764Z,d91a80e5-3638-463f-8a6c-265a52ee96d2,SDE,true,true,Estonia,ee,990223214491658,Silver Tambur,Facebook
+f1ec28cc-4437-433a-acd1-9db1699ebd8d,Gea Kangilaski,2023-02-17T10:51:55.431Z,f3504f8d-e07d-402a-a77e-64fab2bb6bf2,SDE,true,true,Estonia,ee,205554673676254,Gea Kangilaski,Facebook
+f251aaf4-a8a5-46a8-8923-2619b22af9fa,Marina Kaljurand,2023-01-10T09:29:37.896Z,f146e953-c234-4196-b917-7c34c75de77a,SDE,true,true,Estonia,ee,651496914998204,Marina Kaljurand,Facebook
+00ce2d71-c50d-4364-9a62-2aacd6f6796e,Helle-Moonika Helme,2023-01-10T09:29:39.058Z,f53dda59-6669-4060-bab8-c45982e0a445,EKRE,true,true,Estonia,ee,105800858915663,Helle-Moonika Helme,Facebook
+0f43896c-bb0d-4aee-8a70-516780414404,Eesti Konservatiivne Rahvaerakond,2022-08-16T15:24:29.356Z,fd0c00f3-54fc-4125-a645-0331a10aeec0,EKRE,true,true,Estonia,ee,671308106236480,Eesti Konservatiivne Rahvaerakond,Facebook
+14fff02f-a2e9-419c-9bd2-c371b818a0dd,Paul Puustusmaa,2023-01-10T09:29:37.900Z,d3471113-e24e-4e1f-8fe3-5dffbe8e4b55,EKRE,true,true,Estonia,ee,105205335426468,Paul Puustusmaa,Facebook
+184b033f-3f97-4ba5-82c2-be7a3b9d6ef7,Aat Purje,2023-01-10T09:29:39.490Z,dd28f77c-b2a2-4bb3-b710-d1b5ca3a7b6b,EKRE,true,true,Estonia,ee,171192136745530,Aat Purje,Facebook
+1f90ac32-ac16-4d33-a95a-bb5d8bd4b5de,Konservatiivne Harjumaa,2023-01-10T09:29:38.133Z,20d311a2-bc01-40cb-91d8-b541ca4ea335,EKRE,true,true,Estonia,ee,597528440274709,Konservatiivne Harjumaa,Facebook
+215655f7-01b4-4f71-87bc-ea8ed89bc0d0,Ants Frosch,2023-02-07T15:05:01.442Z,7559b66e-9420-4b89-a689-4a902d007955,EKRE,true,true,Estonia,ee,115155321470903,Ants Frosch,Facebook
+2f1d2289-4e07-4a3b-926f-23c6b699fd4f,Siim Pohlak,2023-02-23T10:52:08.512Z,90b19801-899d-411f-a504-e25b8c3227c1,EKRE,true,true,Estonia,ee,761398040582396,Siim Pohlak,Facebook
+2f2f8ed3-0ed6-4658-b2df-6ddeed5241f4,Jaanus Härms - EKRE,2023-01-10T09:29:38.754Z,ed7cec2e-74f7-45e0-9baf-99f7f641d9d6,EKRE,true,true,Estonia,ee,1862105210472394,Jaanus Härms - EKRE,Facebook
+3e423167-45d4-4402-8cb6-6e41f5f20e95,Loone Ots,2023-02-07T15:05:01.118Z,20335e7e-5ec7-4665-b9be-69db485a953e,EKRE,true,true,Estonia,ee,105992845046184,Loone Ots,Facebook
+4c7586f3-26f6-4c7a-8854-5047c087b2ea,Helen Rebane,2023-02-09T06:26:33.125Z,5e7dc5ed-c886-430a-9606-668df5858b3b,EKRE,true,true,Estonia,ee,104007235879189,Helen Rebane,Facebook
+586dc608-19a9-42cb-bb1a-c8702adde349,EKRE Mati Kuklane,2023-02-19T10:52:20.603Z,486eb440-0471-49c3-954f-852fa9545e71,EKRE,true,true,Estonia,ee,100714299048064,EKRE Mati Kuklane,Facebook
+58dc0f70-b87d-4fbf-ba2a-6fd6f95cd1e1,Palle Kõlar,2023-02-07T15:05:01.231Z,5442687d-7eaf-41eb-9ac5-f878b76abac1,EKRE,true,true,Estonia,ee,110302371945546,Palle Kõlar,Facebook
+5a6b5b30-4f6e-4bcf-bbf4-91d2ddf9ff38,Rudolf Jeeser - EKRE poliitik,2023-01-10T09:29:38.279Z,150b5d5d-bf55-4d78-b44f-3f21b3e7f7de,EKRE,true,true,Estonia,ee,104181694881352,Rudolf Jeeser - EKRE poliitik,Facebook
+5bfc5d8b-6ab1-465b-9e19-0e9f39310087,Elar Niglas,2023-02-16T10:52:04.991Z,5c6506f5-e37f-4835-8ca8-aa93bc835e39,EKRE,true,true,Estonia,ee,104448868717451,Elar Niglas,Facebook
+63bbf227-7031-441b-9927-85c4a9da2b9f,Martin Judanov,2023-02-07T15:05:01.536Z,8ac73a8c-5693-4dab-95a3-ebb7940d3124,EKRE,true,true,Estonia,ee,403698680369678,Martin Judanov,Facebook
+64c57004-4f5d-4fe8-b0b5-ae8c9a654835,Merle Kivest EKRE,2023-02-07T15:05:01.924Z,081e9fee-42d2-412b-8181-abee88648531,EKRE,true,true,Estonia,ee,251974038644412,Merle Kivest EKRE,Facebook
+68b14d6f-21f4-4cd7-8ac4-cfe9f5b039a4,Andres Ostra EKRE Tartu- ja Jõgevamaa Riigikogu kandidaat,2023-02-07T15:05:01.781Z,4b23d02e-20f2-420a-a1db-e61028a375d3,EKRE,true,true,Estonia,ee,116805934637013,Andres Ostra EKRE Tartu- ja Jõgevamaa Riigikogu kandidaat,Facebook
+695f6823-edca-414e-8b30-79c24de43c3e,Aarne Mäe,2023-02-17T10:51:55.891Z,a3d153c5-8fc7-4429-ab62-769d01ab30d8,EKRE,true,true,Estonia,ee,1246257335528640,Aarne Mäe,Facebook
+69e377f2-aa89-4841-b4b1-cd199d31b00d,Jaak Valge,2023-01-10T09:29:38.037Z,ac725490-3b34-47fa-bf11-514578ec0417,EKRE,true,true,Estonia,ee,1037193359795251,Jaak Valge,Facebook
+78c1c894-92d2-459f-8053-220f433b790b,Kaupo Männiste,2023-02-16T10:52:05.206Z,f1561516-2d35-4563-9420-6ccefe90e45f,EKRE,true,true,Estonia,ee,108434078252719,Kaupo Männiste,Facebook
+78e6610d-4b7d-49d1-8980-b202f015613f,Mait Talu,2023-02-07T15:05:00.575Z,824e0177-b24b-4f2a-b224-b46350e44386,EKRE,true,true,Estonia,ee,258474369382019,Mait Talu,Facebook
+8048221b-97cf-4d37-8cf2-f19b89155f4e,EKRE.us,2023-01-10T09:29:39.372Z,edd05a2c-b742-4878-a3e2-4428d6ce3341,EKRE,true,true,Estonia,ee,101230348912186,EKRE.us,Facebook
+8269744a-e69b-43af-9556-dd966bbec4b3,Daniel Mereäär,2023-02-08T05:55:40.602Z,70921c33-b1d9-4c18-bbfa-ebcc6dbb68d7,EKRE,true,true,Estonia,ee,348822362385433,Daniel Mereäär,Facebook
+830a4879-1929-4d8a-9692-c2f92ab530d2,Kristel Menning,2023-01-10T09:29:38.691Z,fd45662f-4015-4b11-912f-656dce2b51da,EKRE,true,true,Estonia,ee,144519466155355,Kristel Menning,Facebook
+91d6ff49-9dce-4fcc-a00b-0ed747d6a2ab,Raul Kivi,2023-02-07T15:05:01.598Z,ff63ad0f-cd62-4cfd-91e4-d11db28bccec,EKRE,true,true,Estonia,ee,567956906605079,Raul Kivi,Facebook
+932c6ab7-7ed2-4306-9e02-b86b05254ba2,Rain Epler,2023-01-10T09:29:39.131Z,86f53055-a382-4efc-b0d1-d94aa4c0e0b5,EKRE,true,true,Estonia,ee,104576851941809,Rain Epler,Facebook
+9463b16e-7b94-4684-90f5-f8ba500bcb1a,Uued Uudised,2023-01-10T09:29:38.257Z,1d7ad846-fdac-4c15-934a-d047bec24531,EKRE,true,true,Estonia,ee,841088739305026,Uued Uudised,Facebook
+adab46c4-4b15-4fb7-91e6-ef690e20a665,Mike Calamus,2023-01-10T09:29:39.650Z,2b91cdaa-7f5d-4fef-9cfb-4930bf35fc22,EKRE,true,true,Estonia,ee,103342434933606,Mike Calamus,Facebook
+ae03a706-85b3-4851-a128-70095e894056,Matti Silla,2023-02-07T15:05:00.764Z,aa97bb14-bee6-4e75-a283-4c72e4388348,EKRE,true,true,Estonia,ee,120234997635119,Matti Silla,Facebook
+af099d53-5194-4c00-8899-f73a2fcd7049,Jaak Madison,2023-01-10T09:29:37.853Z,a764fd98-7c16-47ad-931d-f7911aac38cc,EKRE,true,true,Estonia,ee,536519246456733,Jaak Madison,Facebook
+c883997a-ea96-4c9d-a2e5-cae15bf5f6d6,Valmar Haava,2023-02-22T10:52:18.046Z,b3114f9b-f46e-48d6-9f1e-4a0eed07aa15,EKRE,true,true,Estonia,ee,105882662428719,Valmar Haava,Facebook
+cf03f8a8-4300-443a-946d-be295a79c4f3,Anti Poolamets - poliitik,2023-02-08T05:55:40.732Z,0dbe6b42-acc6-40be-8bee-b174ca9da0b2,EKRE,true,true,Estonia,ee,1532805486974348,Anti Poolamets - poliitik,Facebook
+d080c06f-6632-44e3-95b4-2413207f286e,Kalmar Luisk,2023-01-10T09:29:39.272Z,22096f1e-e7ea-47db-98b4-5b07a5bcd7c5,EKRE,true,true,Estonia,ee,143162959936331,Kalmar Luisk,Facebook
+d80f5efa-b582-4336-8c67-85e414520caf,Roland Mere,2023-01-10T09:29:39.892Z,c1ec7cd1-3d95-4675-b78a-da6d3d769cb3,EKRE,true,true,Estonia,ee,102209922736208,Roland Mere,Facebook
+dbc9135d-3d57-43f2-ae20-e4f3afe7065d,Henn Põlluaas,2023-01-10T09:29:38.354Z,b5ba83e4-e2c4-4213-ba10-feb9e290da32,EKRE,true,true,Estonia,ee,183255588365012,Henn Põlluaas,Facebook
+de9a872c-5f2b-4149-852f-a3b5e8f9b601,Eeva Helme,2023-02-11T10:51:51.153Z,d25484d6-d957-4e2e-8984-3f15580b48e5,EKRE,true,true,Estonia,ee,109738198583629,Eeva Helme,Facebook
+e46ef588-4c20-450b-8502-3e1f4c1ea905,Lauri Koni EKRE Jõgeva- ja Tartumaa Riigikogu kandidaat,2023-01-10T09:29:39.692Z,d371ff57-b800-4a6f-960d-b18443eb2028,EKRE,true,true,Estonia,ee,106912875610021,Lauri Koni EKRE Jõgeva- ja Tartumaa Riigikogu kandidaat,Facebook
+e5ea273c-8ae5-42a7-8682-a37f6824f90e,,2023-02-17T10:51:55.895Z,9befb776-5cfa-4181-8049-60b767c7afdb,EKRE,true,true,Estonia,ee,105130935814457,,Facebook
+e7401c76-b934-4d96-91b9-9c4d1d7bb612,Kai Rimmel EKRE Harju- ja Raplamaa Riigikogu kandidaat,2023-02-10T10:52:13.192Z,a541fe65-38a5-4e9b-8f9c-d71018115644,EKRE,true,true,Estonia,ee,955490071318721,Kai Rimmel EKRE Harju- ja Raplamaa Riigikogu kandidaat,Facebook
+e8e3f908-8484-46ff-9589-c342354ec18f,Peeter Ernits,2023-01-10T09:29:38.472Z,65503434-911e-4404-966d-b14f1ada2547,EKRE,true,true,Estonia,ee,100925032508403,Peeter Ernits,Facebook
+ea46f825-b618-4d87-bb32-57ecf6aede74,Evelin Poolamets,2023-02-07T15:05:01.350Z,6659392b-041b-4f53-ab13-8987d46230fa,EKRE,true,true,Estonia,ee,358692998309693,Evelin Poolamets,Facebook
+fc508b3d-7748-42ee-b0b8-8e10c6898079,Martin Helme,2023-02-16T10:52:05.158Z,12b78316-3d3a-46b3-b239-9122c025be4a,EKRE,true,true,Estonia,ee,302677670247408,Martin Helme,Facebook
+044d8662-6d31-4de7-8616-dff929123e13,Vilja Toomast,2023-01-10T09:29:38.439Z,e55e1277-0770-4c17-b3cd-87e712e5f788,RE,true,true,Estonia,ee,1526714420947462,Vilja Toomast,Facebook
+0c2d3bad-cf42-4baf-9778-4b6a88c87ed2,Siim Kallas,2023-02-08T05:55:40.718Z,75230312-728a-415c-b807-491e24ed8196,RE,true,true,Estonia,ee,1010974132271128,Siim Kallas,Facebook
+0c4e137b-452c-49ae-9cab-5a5f7600106c,Eerik-Niiles Kross,2023-02-20T10:52:05.728Z,ba1b1292-0a7f-4001-bd9e-6ef6adab62b1,RE,true,true,Estonia,ee,420086908107295,Eerik-Niiles Kross,Facebook
+0d44baf9-e561-4473-974d-d48bc57b86eb,Hanah Lahe,2023-02-07T15:05:01.807Z,565fda31-5215-441b-ad0a-6252c6b69427,RE,true,true,Estonia,ee,102764095497528,Hanah Lahe,Facebook
+0d50b984-9af5-405e-8911-a02c983ad51a,Mario Kadastik,2023-02-08T05:55:40.543Z,d1a75ed0-109e-43a4-b230-d5065beafc07,RE,true,true,Estonia,ee,103247656016280,Mario Kadastik,Facebook
+2145c6ef-20f7-47af-978a-b86daad04b44,Betina Beškina,2023-01-10T09:29:39.510Z,d20480e2-9d92-4f33-9d67-dc1d67f33b82,RE,true,true,Estonia,ee,103630831448191,Betina Beškina,Facebook
+218378b1-942d-4c18-aea0-ce896f3c497f,Reformierakond Pärnumaal,2023-02-07T15:05:00.357Z,43806f02-37db-4e29-a221-1ed1a1ffa044,RE,true,true,Estonia,ee,159481287409444,Reformierakond Pärnumaal,Facebook
+29089c19-2983-40a9-bc2c-1f3aa8cc50f6,Mait Allas,2023-02-07T15:05:01.843Z,3ecede2b-2d23-422d-91ab-fded02307a82,RE,true,true,Estonia,ee,117518784560961,Mait Allas,Facebook
+2cf3277f-8ad7-4b43-8c0c-bccf2b31ac86,Maaeluminister Urmas Kruuse,2023-01-10T09:29:39.551Z,831672a8-1644-432e-8672-24028903a7f6,RE,true,true,Estonia,ee,105651621638215,Maaeluminister Urmas Kruuse,Facebook
+2dbe76b8-dd5f-4b67-964a-85f8322224d4,"Enn Listra, teel Riigikokku",2023-02-14T10:52:05.464Z,c72b4fa7-7f6e-49c8-81ac-78feaea09050,RE,true,true,Estonia,ee,100231826303788,"Enn Listra, teel Riigikokku",Facebook
+3758e9b3-41ce-4a32-8ee5-93891fd9e658,Sotsiaalkaitseminister Signe Riisalo,2023-01-10T09:29:38.834Z,f29d874b-9e17-4ef0-a3c4-b4e0032e115b,RE,true,true,Estonia,ee,104136565029954,Sotsiaalkaitseminister Signe Riisalo,Facebook
+38044b26-3e6f-4351-b60d-174a64ec078e,Kaitseminister Hanno Pevkur  #pevkur,2023-01-10T09:29:38.455Z,f7987bb9-b73f-4ba9-ad7a-be8d1e560679,RE,true,true,Estonia,ee,1914863625428136,Kaitseminister Hanno Pevkur  #pevkur,Facebook
+3cfc850b-f95d-498c-9e1e-f934fd1f666c,Kalle Laanet,2023-01-10T09:29:38.338Z,2b433d02-5e65-47df-b732-305e7363ebd4,RE,true,true,Estonia,ee,141202956796859,Kalle Laanet,Facebook
+3e758253-df70-439e-adaf-2b8064728434,Reformierakond Tartus,2023-01-10T09:29:38.281Z,7beccc19-fb9f-46e1-84a8-56e3067c8ea2,RE,true,true,Estonia,ee,466885806670211,Reformierakond Tartus,Facebook
+403873f8-9c4f-446a-9f9e-582f90f04990,Reformierakond Raplamaal,2023-02-07T15:05:00.797Z,accf354c-b139-4474-85e0-553d434fcd5b,RE,true,true,Estonia,ee,393647864321476,Reformierakond Raplamaal,Facebook
+4190eeb5-1e82-4943-a2ea-b78d55c7ff21,Õnne Pillak,2023-01-10T09:29:38.956Z,f567d020-eff7-407d-9214-c05b5a67fb9c,RE,true,true,Estonia,ee,105037148206165,Õnne Pillak,Facebook
+4712596b-d555-43c7-82bb-e4a7ceaf6597,Reformierakond Valgamaal,2023-01-10T09:29:38.997Z,68c42bb8-fed0-4c66-a4b1-82bc83ac3008,RE,true,true,Estonia,ee,1150508424999567,Reformierakond Valgamaal,Facebook
+4ad52d6a-791f-40e6-9ace-502ec8a01955,Eesti Reformierakond,2022-08-16T15:24:29.288Z,8b6e0def-2c7d-44cf-bcd1-d0c2fd3850f4,RE,true,true,Estonia,ee,80124492882,Eesti Reformierakond,Facebook
+548b73c3-3b04-41fe-af96-d78566b0e81c,Mart Võrklaev,2023-01-10T09:29:39.073Z,865c634b-3372-4d57-93d5-ca8a478a0883,RE,true,true,Estonia,ee,101170761755187,Mart Võrklaev,Facebook
+5f4c4d7e-d7fa-49e0-a1bf-872c03831fb7,Margit Sutrop,2023-01-10T09:29:38.201Z,7fedddbd-eb7f-4066-82d5-53230481fc67,RE,true,true,Estonia,ee,105836532348198,Margit Sutrop,Facebook
+638f9d05-21f0-486c-a00d-0ee6bfa4d327,Reformierakond Tartumaal,2023-02-08T05:55:40.489Z,4ab9be00-62da-4b38-87a0-31dd1acd110a,RE,true,true,Estonia,ee,330368320498335,Reformierakond Tartumaal,Facebook
+66084591-cdc8-4687-aa3f-1b6f95f0b65d,Keila linna Reformierakond,2023-01-10T09:29:38.851Z,cb4f065b-af81-446e-93cf-37fb38938d8b,RE,true,true,Estonia,ee,333760103715594,Keila linna Reformierakond,Facebook
+749f7f4e-97e9-40fb-8461-bf79f400ec4e,Reformierakond Läänemaal,2023-02-07T15:05:01.656Z,b27ffd2d-62a7-4231-a66d-30d6b9ebe142,RE,true,true,Estonia,ee,1318329174861103,Reformierakond Läänemaal,Facebook
+7efa6379-d0df-4c80-82b5-530ccbdcdbb3,Irina Talviste,2023-01-10T09:29:39.031Z,6410e5ca-22ba-4401-95af-c2fa08693f4e,RE,true,true,Estonia,ee,132263141965268,Irina Talviste,Facebook
+8588f300-b8e8-42de-ac3b-70fc69a82620,Vadim Orlov,2023-02-20T10:52:05.907Z,5efb8955-6915-4e4c-8575-80ee32181b7f,RE,true,true,Estonia,ee,100851602366068,Vadim Orlov,Facebook
+8589516e-16e3-4a0d-b7eb-a7a8e4249dff,Yoko Alender,2023-01-10T09:29:38.812Z,8591f9b4-132e-4793-b2f9-306bc66295c6,RE,true,true,Estonia,ee,709212302463805,Yoko Alender,Facebook
+8d4600f7-e97b-498d-8045-eeab2cfc75ed,Timo Suslov,2023-01-10T09:29:38.475Z,1717c5ba-6298-48ed-a637-924c043874ad,RE,true,true,Estonia,ee,108381065329777,Timo Suslov,Facebook
+8d943351-0bee-4ffc-bbd9-05394e36da61,Andres Sutt,2023-01-10T09:29:38.356Z,8d14515e-efdd-47ef-9b30-4d76293cce86,RE,true,true,Estonia,ee,437271780095830,Andres Sutt,Facebook
+93b8d983-aeb1-46fb-acf5-22b28be5f2cb,Reformierakond Hiiumaal,2023-02-07T15:05:00.443Z,987b2a9d-ccc9-4b24-947d-88516c13b47f,RE,true,true,Estonia,ee,466738123845160,Reformierakond Hiiumaal,Facebook
+94c1f282-f071-4c91-8a1d-a17440d6955a,Tallinna Reforminoored,2023-01-10T09:29:39.192Z,4b41931f-f1bd-4313-9c84-cf0c134b74b8,RE,true,true,Estonia,ee,397035217100478,Tallinna Reforminoored,Facebook
+961d38c7-3640-42e8-ae44-b21af8334e69,Katrin Kuusemäe,2023-01-10T09:29:38.571Z,f368ae96-6402-462d-ad48-11854db0edbb,RE,true,true,Estonia,ee,148344165738189,Katrin Kuusemäe,Facebook
+9657e320-a9f5-4f8b-85c1-0ca905b56634,Maarja Metstak,2023-01-10T09:29:38.752Z,d185b82d-09d1-4de2-b09a-e55b95ca40c6,RE,true,true,Estonia,ee,104123752562894,Maarja Metstak,Facebook
+989b16ab-73af-4cbb-affa-8fa90748128c,Kristina Šmigun-Vähi,2023-02-13T10:52:15.655Z,2aca2de7-feb7-4ab5-9521-d2ea11bcec31,RE,true,true,Estonia,ee,627440857674196,Kristina Šmigun-Vähi,Facebook
+99877ba2-b7e2-4a08-a7a7-bf372f960753,Kristo Enn Vaga,2023-01-10T09:29:38.956Z,ad55af42-1607-4743-82cf-fbca474d26f8,RE,true,true,Estonia,ee,1660428050642539,Kristo Enn Vaga,Facebook
+9ac49bb9-e71f-454c-82ec-9d9286c903a3,Anti Haugas,2023-02-10T10:52:13.213Z,1b321d82-2251-4953-94f8-06cf96b8b5f3,RE,true,true,Estonia,ee,392956437472363,Anti Haugas,Facebook
+9c577929-b51b-4a9a-94a5-620dcfb2688e,Anna Õuekallas,2023-01-10T09:29:39.059Z,faf9dfc9-f960-4b4c-9f88-83571e04d192,RE,true,true,Estonia,ee,1755792931391093,Anna Õuekallas,Facebook
+a3b1eefa-73ab-4412-9ef6-2c01c20984a5,Reformierakond Tallinnas,2023-01-10T09:29:38.554Z,9ff81086-6603-49d9-ab19-412a548ee528,RE,true,true,Estonia,ee,597669946998762,Reformierakond Tallinnas,Facebook
+a7cdaec4-9f54-404c-9d39-0804680bd788,Reformierakond Jõgevamaal,2023-02-07T15:05:00.660Z,93c28276-8a70-4c69-b30a-fe20b73af87f,RE,true,true,Estonia,ee,1494079787505198,Reformierakond Jõgevamaal,Facebook
+b689b973-68ab-4a08-8be8-5d5553d8eb43,Reformierakond Saaremaal,2023-02-07T15:05:00.393Z,50c8bfb9-04e6-4ee5-aab4-abcd3ae03b0d,RE,true,true,Estonia,ee,156757131149195,Reformierakond Saaremaal,Facebook
+b87f453c-2900-4551-bcf5-45465d9518a9,Reforminoored,2023-01-10T09:29:38.670Z,2e4b90ff-d9d8-453b-a5e7-933b4eba7646,RE,true,true,Estonia,ee,117610381595276,Reforminoored,Facebook
+ba287c1d-b227-4535-8a3f-6b816d21b4db,Meelis Kiili,2023-01-10T09:29:38.731Z,1f563578-c0e5-437a-b602-72cc32275331,RE,true,true,Estonia,ee,105659615715950,Meelis Kiili,Facebook
+c6456dbd-1f32-4470-991c-f105d47b96a4,Mati Raidma,2023-02-08T05:55:40.711Z,b8572360-68dd-4a82-a3ac-512ba151bb78,RE,true,true,Estonia,ee,276551735844308,Mati Raidma,Facebook
+c6bed108-d054-4f1e-8f17-0730e3b0f8b8,Reformierakond Võrumaal,2023-01-10T09:29:38.901Z,491c901c-4943-4f6e-bd86-eeb7e4f3d688,RE,true,true,Estonia,ee,480209788740942,Reformierakond Võrumaal,Facebook
+cbf188ff-49f9-414c-8e1c-98a1ba3fff80,Reformierakond Ida-Virumaal,2023-01-10T09:29:39.191Z,94bb0e6b-bcd6-4aea-8855-1922372fd486,RE,true,true,Estonia,ee,858852260806886,Reformierakond Ida-Virumaal,Facebook
+d0676be1-6f50-4776-a852-9d17143dccaf,Reformierakond Põlvamaal,2023-01-10T09:29:39.516Z,add9a7fc-5027-40c3-9284-ed0c200fe2ac,RE,true,true,Estonia,ee,596825990446451,Reformierakond Põlvamaal,Facebook
+d5a67dcd-d623-4d44-9072-eeeff0b05612,Kristen Michal Eesti,2023-01-10T09:29:38.252Z,1c71a2ee-7f4f-46a5-969f-ef212709fe60,RE,true,true,Estonia,ee,262611097699728,Kristen Michal Eesti,Facebook
+dba1737c-410e-43d4-9621-56efa0f077e8,Annely Akkermann,2023-01-10T09:29:38.313Z,03f65dee-6588-48ab-a744-629aafb7d0fe,RE,true,true,Estonia,ee,478814169189020,Annely Akkermann,Facebook
+dba493b4-ed4e-4d07-b242-08d2d11ad824,Urmas Paet,2023-01-10T09:29:38.192Z,c65bf15f-59f2-4890-8456-d03b4fc28a1c,RE,true,true,Estonia,ee,223092011815453,Urmas Paet,Facebook
+de8fb4b8-089e-428b-a583-f7c6e7017fab,Erkki Keldo,2023-01-10T09:29:38.430Z,a62dd903-77ad-46f2-aa9a-202e883fbb6e,RE,true,true,Estonia,ee,103155537800472,Erkki Keldo,Facebook
+e1f5d0aa-8aa9-4639-87c7-f36646843a47,Mihkel Lees - Tartu abilinnapea,2023-02-24T10:52:09.037Z,7cf9a7dc-0309-485d-93f5-a99a8a47c08b,RE,true,true,Estonia,ee,406249229471108,Mihkel Lees - Tartu abilinnapea,Facebook
+e20623a8-d6a8-406d-8219-934c7f62d539,Reformierakond Harjumaal,2023-02-07T15:05:00.190Z,f245f24e-c392-478d-bb0d-84dc4ca3a02e,RE,true,true,Estonia,ee,207815253105660,Reformierakond Harjumaal,Facebook
+e3662da9-699c-4fe6-a4c2-137d0fb91259,Kristi Sillart,2023-01-10T09:29:39.290Z,dd70e9e4-73a0-42da-a412-ab63ac15aee6,RE,true,true,Estonia,ee,109722401485976,Kristi Sillart,Facebook
+e4aed921-de61-4d38-be68-900e45e68eb3,Reformierakond Lääne-Virumaal,2023-02-08T05:55:40.521Z,c2c0c9c0-4de8-4656-9da6-18f40afe5cab,RE,true,true,Estonia,ee,557413407651794,Reformierakond Lääne-Virumaal,Facebook
+fa59edd8-ec3a-4e9d-b3cb-981447778d51,Järvamaa Reformierakond,2023-01-10T09:29:39.497Z,93cbf68a-b9fe-40f9-a6ff-f52755c81174,RE,true,true,Estonia,ee,470280006366562,Järvamaa Reformierakond,Facebook
+fa9ee186-7275-4167-98e8-983e0afcc118,Reformierakond Kuusalus,2023-01-10T09:29:38.843Z,a2d833fa-abc8-4d92-9ca5-da5d9477295c,RE,true,true,Estonia,ee,312422322534786,Reformierakond Kuusalus,Facebook
+0f65dda4-abee-44d6-9a40-9f65940d34ea,Keskkonnaministeerium,2023-01-10T09:29:37.933Z,716ade81-bc48-42e9-99e6-ca5da35341e5,GOV,true,true,Estonia,ee,274848805895621,Keskkonnaministeerium,Facebook
+88479988-09e7-4b8a-aed5-1645f67e8351,Siseministeerium,2023-01-10T09:29:38.132Z,6979b21e-fdd3-4ba0-9d8c-666cbfa975b2,GOV,true,true,Estonia,ee,190435621038843,Siseministeerium,Facebook
+9658cedb-e58f-4e96-b759-3d9c8059d1b1,Põhjamaade Ministrite Nõukogu esindus Eestis,2023-01-10T09:29:38.089Z,822a678a-35e1-43c4-ad2b-c3f12c7bf718,GOV,true,true,Estonia,ee,192384015137,Põhjamaade Ministrite Nõukogu esindus Eestis,Facebook
+aed6e8b8-f82d-4392-8849-6e9c3289193b,Eesti Kaubandus-Tööstuskoda,2023-01-10T09:29:38.652Z,c2341b1d-ab9a-43bd-b59f-6364023f6710,GOV,true,true,Estonia,ee,234915903245805,Eesti Kaubandus-Tööstuskoda,Facebook
+ee6eeff4-2e4d-47d3-aa1e-0ac982f49897,AccelerateEstonia,2023-01-10T09:29:38.959Z,d38d836c-1700-491b-bc9f-5a0060dbd3e4,GOV,true,true,Estonia,ee,420229461857678,AccelerateEstonia,Facebook
+00c8def8-4e60-4df9-8b8b-557228b575b3,SAKU 200,2023-02-26T10:52:12.966Z,96f45c4f-7568-4f7c-87c9-ec2c47384910,E200,true,true,Estonia,ee,102865102135922,SAKU 200,Facebook
+0f1e758d-2943-4db6-a11a-3af922b18894,Marek Reinaas 200,2023-02-07T15:05:00.957Z,c7270ac2-d708-4fb9-b3f1-6fea7b2fc166,E200,true,true,Estonia,ee,355087421885485,Marek Reinaas 200,Facebook
+17b86527-a684-4e74-b928-3870c6e46d01,Marek Karm,2023-02-26T10:52:12.927Z,11d045c1-4d4c-48f3-b196-f739d38225af,E200,true,true,Estonia,ee,1506479282819485,Marek Karm,Facebook
+1b89b7d8-97e9-4693-8133-d8dfded8ba67,Noor Eesti 200,2023-02-07T15:05:01.214Z,04d30c7f-e127-4045-99fe-5b4ee20829cf,E200,true,true,Estonia,ee,652956625101389,Noor Eesti 200,Facebook
+397573b2-0392-4c71-8442-288d2a41693f,Renata Lukk Eesti 200,2023-01-10T09:29:39.511Z,729793d8-259f-48c2-9403-f6fa68dc8417,E200,true,true,Estonia,ee,102531909246975,Renata Lukk Eesti 200,Facebook
+3cd5d718-be28-4fc2-995f-9690bd1d1269,Denis Larchenko,2023-01-10T09:29:39.136Z,c4c6ea31-6168-4239-b28f-0fafd8898a0a,E200,true,true,Estonia,ee,108120434142202,Denis Larchenko,Facebook
+54cd1d19-50a3-4bc5-b37b-9a95e4d60540,Aleksei Jašin,2023-01-10T09:29:38.489Z,1a320cda-11a8-4b07-8d2b-f77b1a491975,E200,true,true,Estonia,ee,212350673022172,Aleksei Jašin,Facebook
+550d178f-8ded-48fe-a5e3-8790937238d9,Marko Sandre Eesti 200,2023-02-14T10:52:05.482Z,be5c559e-f1ae-40da-bc8a-31d02e0aca00,E200,true,true,Estonia,ee,105801009071674,Marko Sandre Eesti 200,Facebook
+5a91ef24-6a20-4779-aa7c-23937f23985f,Kadri Tali,2023-02-09T06:26:33.125Z,a80239b8-3fdb-4893-be11-033958cfcfda,E200,true,true,Estonia,ee,794578140901673,Kadri Tali,Facebook
+673d5dbf-6ddc-4592-9d87-43622b1e0fea,Eesti 200,2023-01-10T09:29:37.716Z,d24a27d7-9ad0-4108-860d-911f1b77caf8,E200,true,true,Estonia,ee,377562219398154,Eesti 200,Facebook
+684c4b9d-d3af-4e50-a980-9aae5503e86f,Светлана Скребнева EESTI 200,2023-02-28T10:52:13.665Z,da94685e-bbd5-43e0-8d3c-993e5d0517ea,E200,true,true,Estonia,ee,402923380459327,Светлана Скребнева EESTI 200,Facebook
+6d1a106e-4862-4de7-8905-e231705c771a,Karl Aaron Adson,2023-02-07T15:05:01.091Z,c67512c1-25f9-4e2a-8653-27c10aa21689,E200,true,true,Estonia,ee,104268148481911,Karl Aaron Adson,Facebook
+6d32db44-0224-4d78-8731-9c04c8f1e0ad,Tarmo Tamm Eesti 200,2023-01-10T09:29:37.951Z,945bb482-d3f5-4082-b8a5-17bcab51436e,E200,true,true,Estonia,ee,111541578402116,Tarmo Tamm Eesti 200,Facebook
+7fa7dc92-7c5a-4916-9058-90455e0113af,Aare Raam,2023-02-07T15:05:01.717Z,0b1b753e-692e-4c55-a658-f2a170bd31de,E200,true,true,Estonia,ee,103659852057740,Aare Raam,Facebook
+8628d323-3f59-4113-8f47-75137e232f4d,Kaspar Taimsoo - Eesti 200,2023-01-10T09:29:39.071Z,07242bf0-c910-4446-8f78-c0519169714a,E200,true,true,Estonia,ee,105275491914989,Kaspar Taimsoo - Eesti 200,Facebook
+9849b9c2-d948-410f-9cc5-5094257c9f62,Vahur Kollom,2023-01-10T09:29:38.338Z,c82e59c1-f056-446e-9adc-b321fe4205c6,E200,true,true,Estonia,ee,1856200201262552,Vahur Kollom,Facebook
+9a08b1b2-c0ec-46ed-a1d9-83dd37125a00,Margot Roose Eesti 200,2023-02-07T15:05:01.861Z,7b50f0c1-ab38-4ba3-ba91-0ad2ac16bbdb,E200,true,true,Estonia,ee,632987530455394,Margot Roose Eesti 200,Facebook
+9d805d64-299c-4db8-9031-77da1aaeb8a3,Ivo Kappet,2023-02-07T15:05:00.457Z,a0bbb012-36b3-47cb-bc6b-d56b88b9be54,E200,true,true,Estonia,ee,1378985468854641,Ivo Kappet,Facebook
+b5debdb2-8fec-41e2-b455-abc0633101e2,Maksim Iljin,2023-02-07T15:05:01.573Z,7957294f-916a-4f58-b154-602b4b39d848,E200,true,true,Estonia,ee,107927072133892,Maksim Iljin,Facebook
+bebbcda9-96f0-41e8-9ece-77b7cb7af327,Jaak Laineste Eesti 200,2023-01-10T09:29:38.552Z,dd5acb00-eb95-419c-b57c-a82e0a11a0e5,E200,true,true,Estonia,ee,2347656258843926,Jaak Laineste Eesti 200,Facebook
+d47d9d60-8947-4c29-b641-147ff55fde12,Timo Nikitin,2023-02-17T10:51:55.901Z,37d78daa-a8a1-447a-ac2b-a3d4f0620fe2,E200,true,true,Estonia,ee,101763649512374,Timo Nikitin,Facebook
+d7139cdc-3373-44b8-87f2-424de5f5bde5,Külli Tammur,2023-02-10T10:52:13.186Z,45f18002-cd03-4e11-aff9-ba5223e092d7,E200,true,true,Estonia,ee,106402085200452,Külli Tammur,Facebook
+d877d19f-766f-4150-b1ca-c03c12553102,Tanel Tein Eesti 200,2023-02-10T10:52:13.002Z,2f3c4896-fb25-435e-a700-1f2c7f8be608,E200,true,true,Estonia,ee,103025672707159,Tanel Tein Eesti 200,Facebook
+dde7a385-3d54-45d4-89ce-7e2d21854231,Eesti 200 Tartu,2023-01-10T09:29:38.295Z,bcbb7953-3c83-41ef-8b5c-d74a519af224,E200,true,true,Estonia,ee,106889421000517,Eesti 200 Tartu,Facebook
+deefc0d2-503a-4364-beea-9b7af0bb1c7e,Joel Jesse Eesti200,2023-02-09T06:26:33.159Z,34b899f5-57be-4cc2-adf7-955af40f909e,E200,true,true,Estonia,ee,322373121712471,Joel Jesse Eesti200,Facebook
+e61687e6-fb69-4d9e-84bd-b4aa5c215ba4,Eesti 200 Pärnu,2023-02-10T10:52:13.070Z,a9abb9ca-e377-4d03-89f3-a964bd3e8bd2,E200,true,true,Estonia,ee,110769850607227,Eesti 200 Pärnu,Facebook
+eb0bfc08-637d-4625-94fe-02eb634332d5,Eesti 200 Jõgeva- ja Tartumaa,2023-01-10T09:29:39.075Z,11f28124-c3e3-47f3-9088-af2600ce096b,E200,true,true,Estonia,ee,111440851821429,Eesti 200 Jõgeva- ja Tartumaa,Facebook
+ec5435a6-473c-4c27-8c7b-3a531a5f3108,Hendrik Johannes Terras,2023-01-10T09:29:40.296Z,4ee769cc-52e5-4984-b552-351094846d97,E200,true,true,Estonia,ee,108383858252853,Hendrik Johannes Terras,Facebook
+ec687466-cc1b-4f48-8f71-eaf0574ed01f,Janek Pahka,2023-01-10T09:29:39.190Z,8155a2fc-2a0e-4dcc-96ee-9b65dd7ae3ac,E200,true,true,Estonia,ee,116838039862444,Janek Pahka,Facebook
+fba99faf-edaf-48de-8d22-c0296c48f09c,Sander Maripuu 200,2023-01-10T09:29:39.192Z,1e14dad6-6107-42c1-8684-e2b088dec59e,E200,true,true,Estonia,ee,259803825890637,Sander Maripuu 200,Facebook
