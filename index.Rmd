@@ -314,7 +314,7 @@ How much did campaigns spend on different targeting methods?
 
 
 
-```{r, fig.width=14, fig.height=12, dpi=300}
+```{r, fig.width=12, fig.height=9, dpi=300}
 
 
 col_each30 <- election_dat30 %>% 
@@ -405,7 +405,7 @@ plot_geography(col_each30) +
 
 ### `r last7days_string` (Last 7 days)
 
-```{r, fig.width=14, fig.height=12, dpi=300}
+```{r, fig.width=12, fig.height=9, dpi=300}
 
 col_each7 <- election_dat7 %>% 
     mutate(total_spend = total_spend_formatted) %>% 
