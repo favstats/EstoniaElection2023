@@ -6,6 +6,10 @@ source("utils.R")
 library(httr)
 install.packages("tidyverse")
 install.packages("gt")
+
+install.packages("gtExtras")
+install.packages("highcharter")
+
 library(tidyverse)
 
 tstamp <- Sys.time()
