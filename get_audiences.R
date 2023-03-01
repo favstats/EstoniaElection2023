@@ -4,11 +4,14 @@ source("utils.R")
 # debugonce(get_targeting)
 
 library(httr)
+install.packages("tidyverse")
 library(tidyverse)
 
 tstamp <- Sys.time()
 
 source("utils.R")
+
+
 
 # rawadvertisers <- read_csv("data/advertisers - advertisers.csv")  %>%
 #   mutate(party_lab = case_when(
@@ -119,12 +122,14 @@ scraper <- function(.x, time = "7") {
     #   saveRDS(yo %>% bind_rows(ol), file = path)
     # } else {
 
-    saveRDS(yo, file = path)
+    # saveRDS(yo, file = path)
     # }
   }
 
   # print(nrow(yo))
   # })
+
+  return(yo)
 
 }
 
@@ -136,14 +141,14 @@ scraper <- possibly(scraper, otherwise = NULL, quiet = F)
 # }
 
 ### save seperately
-yo <- all_dat %>% #count(cntry, sort  =T) %>%
+yo7 <- all_dat %>% #count(cntry, sort  =T) %>%
   # filter(!(page_id %in% already_there)) %>%
   # filter(cntry == "GB") %>%
   # slice(1:10) %>%
   split(1:nrow(.)) %>%
-  map_dfr_progress(scraper, 7)
+  map_dfr(scraper, 7)
 
-yo <- all_dat %>% #count(cntry, sort  =T) %>%
+yo30 <- all_dat %>% #count(cntry, sort  =T) %>%
     # filter(!(page_id %in% already_there)) %>%
     # filter(cntry == "GB") %>%
     # slice(1:10) %>%
@@ -152,14 +157,12 @@ yo <- all_dat %>% #count(cntry, sort  =T) %>%
 
 # saveRDS(yo, file = )
 library(tidyverse)
-da30  <- dir("data/30", full.names = T) %>%
-  map_dfr_progress(readRDS)  %>%
+da30  <- yo30  %>%
     mutate(total_spend_formatted = parse_number(total_spend_formatted)) %>%
     rename(page_id = internal_id) %>%
     left_join(all_dat)
 # da30 %>% count(party)
-da7  <- dir("data/7", full.names = T) %>%
-    map_dfr_progress(readRDS) %>%
+da7  <- yo7 %>%
     mutate(total_spend_formatted = parse_number(total_spend_formatted)) %>%
     rename(page_id = internal_id) %>%
     left_join(all_dat)
@@ -167,30 +170,34 @@ da7  <- dir("data/7", full.names = T) %>%
 saveRDS(da30, "data/election_dat30.rds")
 saveRDS(da7, "data/election_dat7.rds")
 
-da7 %>%
-  distinct(internal_id, .keep_all = T) %>%
-  mutate(total_spend = parse_number(total_spend_formatted)) %>%
-  rename(page_id = internal_id) %>%
-  left_join(internal_page_ids) %>%
-  group_by(party) %>%
-  summarize(total_spend = sum(total_spend))
 
+rmarkdown::render("index.Rmd", "html_document")
 
-amgna <- da7 %>%
-  mutate(total_spend = parse_number(total_spend_formatted)) %>%
-  rename(page_id = internal_id) %>%
-  left_join(internal_page_ids)
-
-
-amgna %>%
-  filter(type == "gender") %>%
-  filter(value == "Women") %>%
-  # mutate(total_spend = total_spend*total_spend_pct) %>%
-  ggplot(aes(party, total_spend_pct)) +
-  geom_boxplot() #+
-  # scale_y_log10()
-
-
-
-amgna %>%
-  filter(type == "detailed")
+#
+# da7 %>%
+#   distinct(internal_id, .keep_all = T) %>%
+#   mutate(total_spend = parse_number(total_spend_formatted)) %>%
+#   rename(page_id = internal_id) %>%
+#   left_join(internal_page_ids) %>%
+#   group_by(party) %>%
+#   summarize(total_spend = sum(total_spend))
+#
+#
+# amgna <- da7 %>%
+#   mutate(total_spend = parse_number(total_spend_formatted)) %>%
+#   rename(page_id = internal_id) %>%
+#   left_join(internal_page_ids)
+#
+#
+# amgna %>%
+#   filter(type == "gender") %>%
+#   filter(value == "Women") %>%
+#   # mutate(total_spend = total_spend*total_spend_pct) %>%
+#   ggplot(aes(party, total_spend_pct)) +
+#   geom_boxplot() #+
+#   # scale_y_log10()
+#
+#
+#
+# amgna %>%
+#   filter(type == "detailed")

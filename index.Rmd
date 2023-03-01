@@ -58,8 +58,32 @@ election_dat7 <- readRDS("data/election_dat7.rds") %>%
     filter(!(party %in% c("GOV", "OTH")))
 #     count(coalition)
 
-last7days_string <- "19th February - 25 February 2023"
-last30days_string <- "27th January - 25 February 2023"
+
+
+fin <- (as.Date(election_dat30$ds[1])-lubridate::days(1))
+begin7 <- fin-lubridate::days(6)
+begin30 <- fin-lubridate::days(29)
+
+append_date_suffix <- function(dates){
+  dayy <- lubridate::day(dates)
+  suff <- case_when(dayy %in% c(11,12,13) ~ "th",
+                    dayy %% 10 == 1 ~ 'st',
+                    dayy %% 10 == 2 ~ 'nd',
+                    dayy %% 10 == 3 ~'rd',
+                    TRUE ~ "th")
+  paste0(dayy, suff)
+}
+
+create_date <- function(x) {
+    str_replace(format(x, "%B %d"), 
+                as.character(lubridate::day(x)), 
+                append_date_suffix(x))
+}
+
+
+
+last7days_string <- paste0(create_date(begin7), " - ", paste(create_date(fin), lubridate::year(fin)))
+last30days_string <- paste0(create_date(begin30), " - ", paste(create_date(fin), lubridate::year(fin)))
 
 # January 26 to Febrary 24
 source("utils.R")
@@ -69,6 +93,8 @@ source("utils.R")
 
 # all_dat %>%
 #     filter(party == "OTH")
+
+
 ```
 
 ```{r}
@@ -97,6 +123,24 @@ scale_color_parties <- function(...){
 
 ```
 
+```{r, eval=F}
+library(gt)
+library(gtExtras)
+teams <- "https://github.com/favstats/provincies30/raw/main/provincies/2023-03-01.rds"
+
+team_df <- readRDS(url(teams))
+
+ logo_table <- team_df %>%
+   dplyr::select(team_wordmark, team_abbr, logo = team_logo_espn, team_name:team_conf) %>%
+   head() %>%
+   gt() %>%
+   gt_img_rows(columns = team_wordmark, height = 25) %>%
+   gt_img_rows(columns = logo, img_source = "web", height = 30) %>%
+   tab_options(data_row.padding = px(1))
+
+
+```
+
 
 ## Methodology
 
@@ -121,6 +165,7 @@ To better understand the regional election, we kept only advertisers who:
 
 
 ```{r}
+library(gtExtras)
 
 get_table_dat <- function(x, var) {
     
@@ -174,18 +219,26 @@ x %>%
     
 }
 
+
+logos <- tibble(`Coalizione/Partito` = c("EKRE"),
+       logo = c("https://upload.wikimedia.org/wikipedia/commons/0/0c/EKRE_logo.png"))
+
 # debugonce(get_table_dat)
 get_table_dat(election_dat30, party) %>% 
   arrange(desc(parse_number(`Total Spend`))) %>% 
+  # left_join(logos) %>% 
+  # select(Party = `Coalizione/Partito`, logo, everything()) %>% 
   gt(
     rowname_col = "Coalizione/Partito"
     # groupname_col = "group"
   ) %>% 
-  fmt_markdown(columns = everything())  %>% 
+  fmt_markdown(columns = `Top Spenders`)  %>%
   cols_align(
     align = "center"
-  ) %>% 
-  gtExtras::gt_theme_538() #%>% 
+  ) %>%
+  gtExtras::gt_theme_538() #%>%
+   # gt_img_rows(columns = logo, height = 35) %>%
+   # tab_options(data_row.padding = px(1))
   # tab_options(table.width = pct(100))  #%>%
   # tab_style(
   #   style = cell_borders(
