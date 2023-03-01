@@ -28,7 +28,7 @@ knitr::opts_chunk$set(
 
 # pacman::p_load(tidyverse, highcharter)
 library(tidyverse)
-library(highcharter)
+#library(highcharter)
 library(gt)
 
 
