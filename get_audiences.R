@@ -153,7 +153,7 @@ yo30 <- all_dat %>% #count(cntry, sort  =T) %>%
     # filter(cntry == "GB") %>%
     # slice(1:10) %>%
     split(1:nrow(.)) %>%
-    map_dfr_progress(scraper, 30)
+    map_dfr(scraper, 30)
 
 # saveRDS(yo, file = )
 library(tidyverse)
