@@ -5,6 +5,7 @@ source("utils.R")
 
 library(httr)
 install.packages("tidyverse")
+install.packages("gt")
 library(tidyverse)
 
 tstamp <- Sys.time()
