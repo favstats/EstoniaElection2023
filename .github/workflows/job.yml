@@ -21,6 +21,10 @@ jobs:
           r-version: 'release'
       - name: Setup - Checkout repo
         uses: actions/checkout@v3
+      - name: Setup - Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+        with:
+          pandoc-version: '2.17.1' # The pandoc version to download (if necessary) and use.
       - name: Apt-get needed things
         run: |
           sudo apt-get install --no-install-recommends -y \
