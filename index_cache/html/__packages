@@ -11,3 +11,5 @@ highcharter
 gt
 gtExtras
 tidytext
+httr
+lubridate
