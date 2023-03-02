@@ -7,9 +7,6 @@ purrr
 dplyr
 stringr
 forcats
-highcharter
 gt
 gtExtras
 tidytext
-httr
-lubridate
