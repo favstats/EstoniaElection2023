@@ -9,7 +9,7 @@ install.packages("gt")
 
 install.packages("gtExtras")
 install.packages("highcharter")
-
+install.packages("rmdformats")
 install.packages("tidytext")
 
 
