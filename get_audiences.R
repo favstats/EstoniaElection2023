@@ -10,6 +10,9 @@ install.packages("gt")
 install.packages("gtExtras")
 install.packages("highcharter")
 
+install.packages("tidytext")
+
+
 library(tidyverse)
 
 tstamp <- Sys.time()
