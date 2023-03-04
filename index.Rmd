@@ -75,12 +75,16 @@ append_date_suffix <- function(dates){
 }
 
 create_date <- function(x) {
-    str_replace(format(x, "%B %d"), 
+    the_date <- format(x, "%B %d")
+    the_date <- ifelse(str_detect(the_date, " 0"),
+           str_remove(the_date, "0"),
+           the_date)
+    str_replace(the_date, 
                 as.character(lubridate::day(x)), 
                 append_date_suffix(x))
 }
 
-
+# create_date(fin)
 
 last7days_string <- paste0(create_date(begin7), " - ", paste(create_date(fin), lubridate::year(fin)))
 last30days_string <- paste0(create_date(begin30), " - ", paste(create_date(fin), lubridate::year(fin)))
@@ -181,6 +185,22 @@ In total, political parties spend €`r scales::comma_format()(sum30$total_spend
 ```{r}
 library(gtExtras)
 
+add_ribbons <- function(x, adv, col) {
+   x %>% 
+  # tab_options(table.width = pct(100)) %>%
+  tab_style(
+    style = cell_borders(
+      sides = c("left"),
+      color = col,
+      weight = px(18.5),
+      style = "solid"
+    ),
+    locations = cells_body(
+      columns = `Number of Advertisers`,
+      rows = adv
+    ))
+}
+
 get_table_dat <- function(x, var) {
     
 
@@ -250,10 +270,22 @@ get_table_dat(election_dat30, party) %>%
   cols_align(
     align = "center"
   ) %>%
-  gtExtras::gt_theme_538() #%>%
+  gtExtras::gt_theme_538() %>%
    # gt_img_rows(columns = logo, height = 35) %>%
    # tab_options(data_row.padding = px(1))
-  # tab_options(table.width = pct(100))  #%>%
+  tab_options(table.width = pct(100))  %>%
+    add_ribbons("EKRE", "#0063af") %>%
+    add_ribbons("I", "#009ce2") %>%
+    add_ribbons("K", "#007557") %>%
+    add_ribbons("SDE", "#e10600") %>%
+    # add_ribbons("REF", "#F6531D") %>%
+    add_ribbons("E200", "#06778d") %>%
+    add_ribbons("RE", "#ffe200") #%>%
+    # add_ribbons("EER", "#00ADEF") %>%
+    # add_ribbons("VE", "#914191") %>%
+    # add_ribbons("EK", "#7EB82D") #%>%
+    # add_ribbons("ROH", "#009B77") %>%
+    # add_ribbons("TBA", "#FCCB0A")
   # tab_style(
   #   style = cell_borders(
   #     sides = c("left"),
@@ -325,7 +357,19 @@ get_table_dat(election_dat7, party) %>%
     align = "center"
   ) %>% 
   gtExtras::gt_theme_538() %>% 
-  tab_options(table.width = pct(100)) #  %>%
+  tab_options(table.width = pct(100)) %>%
+    add_ribbons("EKRE", "#0063af") %>%
+    add_ribbons("I", "#009ce2") %>%
+    add_ribbons("K", "#007557") %>%
+    add_ribbons("SDE", "#e10600") %>%
+    # add_ribbons("REF", "#F6531D") %>%
+    add_ribbons("E200", "#06778d") %>%
+    add_ribbons("RE", "#ffe200")# %>%
+    # add_ribbons("EER", "#00ADEF") %>%
+    # add_ribbons("VE", "#914191") %>%
+    # add_ribbons("EK", "#7EB82D") #%>%
+    # add_ribbons("ROH", "#009B77") %>%
+    # add_ribbons("TBA", "#FCCB0A")
   # tab_style(
   #   style = cell_borders(
   #     sides = c("left"),
