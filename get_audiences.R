@@ -4,13 +4,13 @@ source("utils.R")
 # debugonce(get_targeting)
 
 library(httr)
-install.packages("tidyverse")
-install.packages("gt")
-
-install.packages("gtExtras")
-install.packages("highcharter")
-install.packages("rmdformats")
-install.packages("tidytext")
+# install.packages("tidyverse")
+# install.packages("gt")
+#
+# install.packages("gtExtras")
+# install.packages("highcharter")
+# install.packages("rmdformats")
+# install.packages("tidytext")
 
 
 library(tidyverse)
@@ -154,14 +154,14 @@ yo7 <- all_dat %>% #count(cntry, sort  =T) %>%
   # filter(cntry == "GB") %>%
   # slice(1:10) %>%
   split(1:nrow(.)) %>%
-  map_dfr(scraper, 7)
+  map_dfr_progress(scraper, 7)
 
 yo30 <- all_dat %>% #count(cntry, sort  =T) %>%
     # filter(!(page_id %in% already_there)) %>%
     # filter(cntry == "GB") %>%
     # slice(1:10) %>%
     split(1:nrow(.)) %>%
-    map_dfr(scraper, 30)
+    map_dfr_progress(scraper, 30)
 
 # saveRDS(yo, file = )
 library(tidyverse)

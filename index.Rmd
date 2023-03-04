@@ -97,12 +97,15 @@ source("utils.R")
 
 ```
 
+
+
+
 ```{r}
 # election_dat30 %>%
 # count(party,sort = T)
 
 color_dat <- tibble(
-  colors = c("#8DC63F", "#0E519F", "#FBBC13", "#0072C6", "#F6531D", "#4F4B4B", "#A98274", "#00ADEF", "#914191", "#7EB82D", "#009B77", "#FCCB0A"),
+  colors = c("#0063af", "#009ce2", "#007557", "#e10600", "#F6531D", "#06778d", "#ffe200", "#00ADEF", "#914191", "#7EB82D", "#009B77", "#FCCB0A"),
   party = c("EKRE", "I", "K", "SDE", "REF", "E200", "RE", "EER", "VE", "EK", "ROH", "TBA"))
 
 
@@ -157,12 +160,23 @@ To better understand the regional election, we kept only advertisers who:
 
 ## Topline Statistics  {.tabset .tabset-fade .tabset-pills}
 
-### `r last30days_string` (Last 30 days)
 
 ```{r}
-# runoff %>% count(ds)
+sum30 <- election_dat30 %>% 
+    distinct(internal_id, .keep_all = T) %>% 
+    summarize(total_spend_formatted = sum(total_spend_formatted),
+              total_num_ads = sum(total_num_ads))
+
+sum7 <- election_dat7 %>% 
+    distinct(internal_id, .keep_all = T) %>% 
+    summarize(total_spend_formatted = sum(total_spend_formatted),
+              total_num_ads = sum(total_num_ads))
 ```
 
+### `r last30days_string` (Last 30 days)
+
+
+In total, political parties spend €`r scales::comma_format()(sum30$total_spend_formatted)` and ran `r sum30$total_num_ads` ad copies on Meta in this timeframe.
 
 ```{r}
 library(gtExtras)
@@ -294,6 +308,8 @@ get_table_dat(election_dat30, party) %>%
 
 
 ### `r last7days_string` (Last 7 days)
+
+In total, political parties spend €`r scales::comma_format()(sum7$total_spend_formatted)` and ran `r sum7$total_num_ads` ad copies on Meta in this timeframe.
 
 
 ```{r}
@@ -653,13 +669,13 @@ contested_dat <- interest_targeting %>%
 
 
 the_order <- contested_dat %>% 
-  filter(party == "EKRE") %>%   arrange(desc(perc)) %>% 
+  filter(party == "SDE") %>%   arrange(desc(perc)) %>% 
   pull(value) %>% 
   unique()
 
 lab_dat <- contested_dat %>% 
   # distinct(value, .keep_all = T) %>% 
-  filter(party == "EKRE") %>% 
+  filter(party == "SDE") %>% 
   mutate(labb = paste0("€", scales::comma(round(total_spenderino)))) %>% 
   select(party, value, labb)
 
@@ -988,6 +1004,7 @@ total_sppppeen <- x %>%
 x %>% 
     filter(type == "detailed") %>%
     filter(detailed_type == "DEMOGRAPHICS") %>% 
+    filter(!is_exclusion) %>% 
     # count(value, sort = T) %>% 
     filter(str_detect(value, "grad school|degree|	|Master|[c|C]ollege|degree|[H|h]igh school|Professional degree")) %>% 
     filter(str_detect(value, "Wine", negate = T)) %>% 
@@ -1096,6 +1113,7 @@ total_sppppeen <- x %>%
 x %>% 
     filter(type == "detailed") %>%
     filter(detailed_type == "DEMOGRAPHICS") %>% 
+    filter(!is_exclusion) %>% 
     # count(value, sort = T) %>% 
     filter(str_detect(value, "grad school|degree|	|Master|[c|C]ollege|degree|[H|h]igh school|Professional degree", negate = T)) %>% 
   mutate(total_spend = total_spend_formatted) %>%
