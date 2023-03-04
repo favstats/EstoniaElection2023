@@ -569,7 +569,7 @@ contested_dat30 <- interest_targeting30 %>%
   filter(total_spend >= 1) %>%
   # add_count(value) %>% 
   # filter(n >= 5) %>% 
-  group_by(value) %>% 
+  group_by(party) %>% 
   mutate(total_spenderino = sum(total_spend)) %>% 
   mutate(perc = total_spend/total_spenderino) %>%
   mutate(value = str_remove_all(value, "INTERESTS: |DEMOGRAPHICS: |BEHAVIORS: ")) %>% 
@@ -604,7 +604,7 @@ contested_dat7 <- interest_targeting7 %>%
   filter(total_spend >= 1) %>%
   # add_count(value) %>% 
   # filter(n >= 5) %>% 
-  group_by(value) %>% 
+  group_by(party) %>% 
   mutate(total_spenderino = sum(total_spend)) %>% 
   mutate(perc = total_spend/total_spenderino) %>%
   mutate(value = str_remove_all(value, "INTERESTS: |DEMOGRAPHICS: |BEHAVIORS: ")) %>% 
